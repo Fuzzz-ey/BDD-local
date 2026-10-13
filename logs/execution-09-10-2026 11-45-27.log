@@ -1,0 +1,141 @@
+[INFO] 2026.10.09.11.45.30 Opening Decathlon PLP
+[INFO] 2026.10.09.11.45.34 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.45.34 Waiting for domcontentloaded
+[INFO] 2026.10.09.11.45.34 Waiting for domcontentloaded successful
+[INFO] 2026.10.09.11.45.34 Scrolling to filter sidebar
+[INFO] 2026.10.09.11.45.34 Scrolling to filter sidebar successful
+[INFO] 2026.10.09.11.45.34 Fetching Size filter locator
+[INFO] 2026.10.09.11.45.34 Fetching Size filter locator successful
+[INFO] 2026.10.09.11.45.34 Fetching Size filter locator
+[INFO] 2026.10.09.11.45.34 Fetching Size filter locator successful
+[INFO] 2026.10.09.11.45.34 Fetching Color filter locator
+[INFO] 2026.10.09.11.45.34 Fetching Color filter locator successful
+[INFO] 2026.10.09.11.45.36 Opening Decathlon PLP
+[INFO] 2026.10.09.11.45.39 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.45.39 Waiting for product grid
+[INFO] 2026.10.09.11.45.40 Waiting for product grid successful
+[INFO] 2026.10.09.11.45.40 Reading result count text
+[INFO] 2026.10.09.11.45.40 Reading result count text successful
+[INFO] 2026.10.09.11.45.40 Reading numeric result count
+[INFO] 2026.10.09.11.45.40 Reading numeric result count successful
+[INFO] 2026.10.09.11.45.40 Fetching Size accordion locator
+[INFO] 2026.10.09.11.45.40 Fetching Size accordion locator successful
+[INFO] 2026.10.09.11.45.40 Expanding Size filter
+[INFO] 2026.10.09.11.45.45 Expanding Size filter successful
+[INFO] 2026.10.09.11.45.45 Fetching size option locator
+[INFO] 2026.10.09.11.45.45 Fetching size option locator successful
+[INFO] 2026.10.09.11.45.45 Selecting size filter
+[INFO] 2026.10.09.11.45.46 Selecting size filter successful
+[INFO] 2026.10.09.11.45.46 Waiting for results to refresh
+[INFO] 2026.10.09.11.45.46 Waiting for results to refresh successful
+[INFO] 2026.10.09.11.45.46 Fetching size checkbox locator
+[INFO] 2026.10.09.11.45.46 Fetching size checkbox locator successful
+[INFO] 2026.10.09.11.45.46 Reading numeric result count
+[INFO] 2026.10.09.11.45.46 Reading numeric result count successful
+[INFO] 2026.10.09.11.45.46 Fetching product cards locator
+[INFO] 2026.10.09.11.45.46 Fetching product cards locator successful
+[INFO] 2026.10.09.11.45.46 TC_56 filtered product count for size M: 317
+[INFO] 2026.10.09.11.45.47 Opening Decathlon PLP
+[INFO] 2026.10.09.11.45.50 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.45.50 Waiting for page load
+[INFO] 2026.10.09.11.45.51 Waiting for page load successful
+[INFO] 2026.10.09.11.45.51 Reading result count text
+[INFO] 2026.10.09.11.45.51 Reading result count text successful
+[INFO] 2026.10.09.11.45.51 Reading numeric result count
+[INFO] 2026.10.09.11.45.51 Reading numeric result count successful
+[INFO] 2026.10.09.11.45.51 Fetching Color accordion locator
+[INFO] 2026.10.09.11.45.51 Fetching Color accordion locator successful
+[INFO] 2026.10.09.11.45.52 Expanding Color filter
+[INFO] 2026.10.09.11.45.57 Expanding Color filter successful
+[INFO] 2026.10.09.11.45.57 Fetching colour option locator
+[INFO] 2026.10.09.11.45.57 Fetching colour option locator successful
+[INFO] 2026.10.09.11.45.57 Selecting colour filter
+[INFO] 2026.10.09.11.45.57 Selecting colour filter successful
+[INFO] 2026.10.09.11.45.57 Waiting for results to refresh
+[INFO] 2026.10.09.11.45.58 Waiting for results to refresh successful
+[INFO] 2026.10.09.11.45.58 Fetching colour checkbox locator
+[INFO] 2026.10.09.11.45.58 Fetching colour checkbox locator successful
+[INFO] 2026.10.09.11.45.58 Reading numeric result count
+[INFO] 2026.10.09.11.45.58 Reading numeric result count successful
+[INFO] 2026.10.09.11.45.58 Fetching first card image locator
+[INFO] 2026.10.09.11.45.58 Fetching first card image locator successful
+[INFO] 2026.10.09.11.45.58 TC_57 Black colour filter applied successfully
+[INFO] 2026.10.09.11.45.59 Opening Decathlon PLP
+[INFO] 2026.10.09.11.46.03 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.46.03 Waiting for product grid
+[INFO] 2026.10.09.11.46.03 Waiting for product grid successful
+[INFO] 2026.10.09.11.46.03 Reading result count text
+[INFO] 2026.10.09.11.46.03 Reading result count text successful
+[INFO] 2026.10.09.11.46.03 Expanding Size filter
+[INFO] 2026.10.09.11.46.08 Expanding Size filter successful
+[INFO] 2026.10.09.11.46.08 Selecting size filter
+[INFO] 2026.10.09.11.46.09 Selecting size filter successful
+[INFO] 2026.10.09.11.46.09 Waiting for results to refresh
+[INFO] 2026.10.09.11.46.09 Waiting for results to refresh successful
+[INFO] 2026.10.09.11.46.09 Reading result count text
+[INFO] 2026.10.09.11.46.09 Reading result count text successful
+[INFO] 2026.10.09.11.46.09 Reading numeric result count
+[INFO] 2026.10.09.11.46.09 Reading numeric result count successful
+[INFO] 2026.10.09.11.46.09 Expanding Color filter
+[INFO] 2026.10.09.11.46.14 Expanding Color filter successful
+[INFO] 2026.10.09.11.46.14 Selecting colour filter
+[INFO] 2026.10.09.11.46.15 Selecting colour filter successful
+[INFO] 2026.10.09.11.46.15 Waiting for results to refresh
+[INFO] 2026.10.09.11.46.16 Waiting for results to refresh successful
+[INFO] 2026.10.09.11.46.16 Reading product card title
+[INFO] 2026.10.09.11.46.16 Reading product card title successful
+[INFO] 2026.10.09.11.46.16 Reading product card price
+[INFO] 2026.10.09.11.46.16 Reading product card price successful
+[INFO] 2026.10.09.11.46.16 TC_58 first product: VAN RYSEL Raincoat Men Waterproof with Windproof Protection and Hood - Blue | 999
+[INFO] 2026.10.09.11.46.16 Fetching size checkbox locator
+[INFO] 2026.10.09.11.46.16 Fetching size checkbox locator successful
+[INFO] 2026.10.09.11.46.16 Fetching colour checkbox locator
+[INFO] 2026.10.09.11.46.16 Fetching colour checkbox locator successful
+[INFO] 2026.10.09.11.46.16 Reading numeric result count
+[INFO] 2026.10.09.11.46.16 Reading numeric result count successful
+[INFO] 2026.10.09.11.46.17 Opening Decathlon PLP
+[INFO] 2026.10.09.11.46.21 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.46.21 Waiting for product grid
+[INFO] 2026.10.09.11.46.21 Waiting for product grid successful
+[INFO] 2026.10.09.11.46.21 Reading result count text
+[INFO] 2026.10.09.11.46.21 Reading result count text successful
+[INFO] 2026.10.09.11.46.21 Expanding Size filter
+[INFO] 2026.10.09.11.46.27 Expanding Size filter successful
+[INFO] 2026.10.09.11.46.27 Selecting size filter
+[INFO] 2026.10.09.11.46.27 Selecting size filter successful
+[INFO] 2026.10.09.11.46.27 Waiting for results to refresh
+[INFO] 2026.10.09.11.46.28 Waiting for results to refresh successful
+[INFO] 2026.10.09.11.46.28 Reading result count text
+[INFO] 2026.10.09.11.46.28 Reading result count text successful
+[INFO] 2026.10.09.11.46.28 Expanding Color filter
+[INFO] 2026.10.09.11.46.33 Expanding Color filter successful
+[INFO] 2026.10.09.11.46.33 Selecting colour filter
+[INFO] 2026.10.09.11.46.33 Selecting colour filter successful
+[INFO] 2026.10.09.11.46.33 Waiting for results to refresh
+[INFO] 2026.10.09.11.46.34 Waiting for results to refresh successful
+[INFO] 2026.10.09.11.46.34 Fetching result count locator
+[INFO] 2026.10.09.11.46.34 Fetching result count locator successful
+[INFO] 2026.10.09.11.46.34 Reading numeric result count
+[INFO] 2026.10.09.11.46.34 Reading numeric result count successful
+[INFO] 2026.10.09.11.46.34 Loading all product cards
+[INFO] 2026.10.09.11.46.38 Loading all product cards successful
+[INFO] 2026.10.09.11.46.38 TC_59 displayed count 2 matches card count 2
+[INFO] 2026.10.09.11.46.39 Opening Decathlon PLP
+[INFO] 2026.10.09.11.46.43 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.46.43 Waiting for page load
+[INFO] 2026.10.09.11.46.44 Waiting for page load successful
+[INFO] 2026.10.09.11.46.44 Reading result count text
+[INFO] 2026.10.09.11.46.44 Reading result count text successful
+[INFO] 2026.10.09.11.46.44 Expanding Size filter
+[INFO] 2026.10.09.11.46.49 Expanding Size filter successful
+[INFO] 2026.10.09.11.46.49 Selecting size filter
+[INFO] 2026.10.09.11.46.49 Selecting size filter successful
+[INFO] 2026.10.09.11.46.49 Waiting for results to refresh
+[INFO] 2026.10.09.11.46.50 Waiting for results to refresh successful
+[INFO] 2026.10.09.11.46.50 Reading result count text
+[INFO] 2026.10.09.11.46.50 Reading result count text successful
+[INFO] 2026.10.09.11.46.50 Expanding Color filter
+[ERROR] 2026.10.09.11.47.09 Expanding Color filter failed: Error: locator.waitFor: Test timeout of 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-test-id^="filter-item-business_color_v2-"][data-test-id$="-Gold"]') to be visible[22m
+

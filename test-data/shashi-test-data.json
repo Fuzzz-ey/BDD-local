@@ -1,0 +1,26 @@
+{
+    "common": {
+        "plpUrl": "/c/tshirts-26201",
+        "lowToHighLabel": "Price (low → high)"
+    },
+    "TC_55": {},
+    "TC_56": { "size": "M" },
+    "TC_57": { "color": "Black" },
+    "TC_58": { "size": "L", "color": "Blue" },
+    "TC_59": { "size": "S", "color": "Red" },
+    "TC_60": { "size": "XS", "color": "Turquoise", "colorHex": "43C6C6", "expectedMessage": "Explore all our collections" },
+    "TC_61": { "size": "M", "color": "Black" },
+    "TC_62": { "size": "M", "color": "Black" },
+    "TC_63": { "size": "XL", "color": "Grey" },
+    "TC_64": { "size": "M" },
+    "TC_65": { "defaultSort": "Most relevant" },
+    "TC_66": { "highToLowOption": "Price (high → low)", "discountOption": "Highest discount" },
+    "TC_67": {},
+    "TC_68": {},
+    "TC_69": { "color": "White" },
+    "TC_70": { "sortParam": "sort=dsi_pim_migration_category_price_asc" },
+    "TC_71": {},
+    "TC_72": {},
+    "TC_73": { "searchText": "XYZ999INVALID!", "noResultsText": "Sorry, No Results Found...!" },
+    "TC_74": {}
+}

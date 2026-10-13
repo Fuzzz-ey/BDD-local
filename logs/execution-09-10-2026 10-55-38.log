@@ -1,0 +1,21 @@
+[INFO] 2026.10.09.10.55.39 Opening Decathlon PLP
+[INFO] 2026.10.09.10.55.43 Opening Decathlon PLP successful
+[INFO] 2026.10.09.10.55.43 Waiting for product grid
+[INFO] 2026.10.09.10.55.43 Waiting for product grid successful
+[INFO] 2026.10.09.10.55.43 Reading result count text
+[INFO] 2026.10.09.10.55.43 Reading result count text successful
+[INFO] 2026.10.09.10.55.43 Expanding Color filter
+[INFO] 2026.10.09.10.55.48 Expanding Color filter successful
+[INFO] 2026.10.09.10.55.48 Selecting colour filter
+[INFO] 2026.10.09.10.55.49 Selecting colour filter successful
+[INFO] 2026.10.09.10.55.49 Waiting for results to refresh
+[INFO] 2026.10.09.10.55.49 Waiting for results to refresh successful
+[INFO] 2026.10.09.10.55.49 Reading result count text
+[INFO] 2026.10.09.10.55.49 Reading result count text successful
+[INFO] 2026.10.09.10.55.49 Opening sort dropdown
+[INFO] 2026.10.09.10.55.49 Opening sort dropdown successful
+[INFO] 2026.10.09.10.55.49 Selecting Price: Low to High
+[ERROR] 2026.10.09.10.56.09 Selecting Price: Low to High failed: Error: locator.click: Test timeout of 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-test-id="sort-bar-desktop:dropdown-list"]').getByRole('option', { name: 'Price: Low to High', exact: true })[22m
+

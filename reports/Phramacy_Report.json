@@ -1,0 +1,2349 @@
+{
+  "total": 466,
+  "entries": [
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.43.56"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.43.58"
+    },
+    {
+      "step": "Waiting for domcontentloaded",
+      "status": "passed",
+      "at": "2026.10.12.17.43.58"
+    },
+    {
+      "step": "Waiting for domcontentloaded successful",
+      "status": "passed",
+      "at": "2026.10.12.17.43.58"
+    },
+    {
+      "step": "Scrolling to filter sidebar",
+      "status": "passed",
+      "at": "2026.10.12.17.43.58"
+    },
+    {
+      "step": "Scrolling to filter sidebar successful",
+      "status": "passed",
+      "at": "2026.10.12.17.43.59"
+    },
+    {
+      "step": "Fetching Size filter locator",
+      "status": "passed",
+      "at": "2026.10.12.17.43.59"
+    },
+    {
+      "step": "Fetching Size filter locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.43.59"
+    },
+    {
+      "step": "Fetching Size filter locator",
+      "status": "passed",
+      "at": "2026.10.12.17.43.59"
+    },
+    {
+      "step": "Fetching Size filter locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.43.59"
+    },
+    {
+      "step": "Fetching Color filter locator",
+      "status": "passed",
+      "at": "2026.10.12.17.43.59"
+    },
+    {
+      "step": "Fetching Color filter locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.43.59"
+    },
+    {
+      "step": "screenshot captured: TC_55 Filter Visibility",
+      "status": "passed",
+      "at": "2026.10.12.17.43.59",
+      "screenshot": "C:\\Users\\10876919\\Downloads\\Hybrid-X-BDD_Local_test-cases\\Hybrid_Local_test-cases\\Local-Test-Cases\\reports\\screenshots\\TC_55 Filter Visibility-12-10-2026 17-43-59.png"
+    },
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.44.00"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.03"
+    },
+    {
+      "step": "Waiting for product grid",
+      "status": "passed",
+      "at": "2026.10.12.17.44.03"
+    },
+    {
+      "step": "Waiting for product grid successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.03"
+    },
+    {
+      "step": "Reading result count text",
+      "status": "passed",
+      "at": "2026.10.12.17.44.03"
+    },
+    {
+      "step": "Reading result count text successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.03"
+    },
+    {
+      "step": "Reading numeric result count",
+      "status": "passed",
+      "at": "2026.10.12.17.44.03"
+    },
+    {
+      "step": "Reading numeric result count successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.03"
+    },
+    {
+      "step": "Fetching Size accordion locator",
+      "status": "passed",
+      "at": "2026.10.12.17.44.03"
+    },
+    {
+      "step": "Fetching Size accordion locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.03"
+    },
+    {
+      "step": "Expanding Size filter",
+      "status": "passed",
+      "at": "2026.10.12.17.44.03"
+    },
+    {
+      "step": "Expanding Size filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.08"
+    },
+    {
+      "step": "Fetching size option locator",
+      "status": "passed",
+      "at": "2026.10.12.17.44.08"
+    },
+    {
+      "step": "Fetching size option locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.08"
+    },
+    {
+      "step": "Selecting size filter",
+      "status": "passed",
+      "at": "2026.10.12.17.44.08"
+    },
+    {
+      "step": "Selecting size filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.09"
+    },
+    {
+      "step": "Waiting for results to refresh",
+      "status": "passed",
+      "at": "2026.10.12.17.44.09"
+    },
+    {
+      "step": "Waiting for results to refresh successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.09"
+    },
+    {
+      "step": "Fetching size checkbox locator",
+      "status": "passed",
+      "at": "2026.10.12.17.44.09"
+    },
+    {
+      "step": "Fetching size checkbox locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.09"
+    },
+    {
+      "step": "Reading numeric result count",
+      "status": "passed",
+      "at": "2026.10.12.17.44.09"
+    },
+    {
+      "step": "Reading numeric result count successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.09"
+    },
+    {
+      "step": "Fetching product cards locator",
+      "status": "passed",
+      "at": "2026.10.12.17.44.09"
+    },
+    {
+      "step": "Fetching product cards locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.09"
+    },
+    {
+      "step": "screenshot captured: TC_56 Size M Applied",
+      "status": "passed",
+      "at": "2026.10.12.17.44.09",
+      "screenshot": "C:\\Users\\10876919\\Downloads\\Hybrid-X-BDD_Local_test-cases\\Hybrid_Local_test-cases\\Local-Test-Cases\\reports\\screenshots\\TC_56 Size M Applied-12-10-2026 17-44-09.png"
+    },
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.44.10"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.17"
+    },
+    {
+      "step": "Waiting for page load",
+      "status": "passed",
+      "at": "2026.10.12.17.44.17"
+    },
+    {
+      "step": "Waiting for page load successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.19"
+    },
+    {
+      "step": "Reading result count text",
+      "status": "passed",
+      "at": "2026.10.12.17.44.19"
+    },
+    {
+      "step": "Reading result count text successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.19"
+    },
+    {
+      "step": "Reading numeric result count",
+      "status": "passed",
+      "at": "2026.10.12.17.44.19"
+    },
+    {
+      "step": "Reading numeric result count successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.19"
+    },
+    {
+      "step": "Fetching Color accordion locator",
+      "status": "passed",
+      "at": "2026.10.12.17.44.19"
+    },
+    {
+      "step": "Fetching Color accordion locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.19"
+    },
+    {
+      "step": "Expanding Color filter",
+      "status": "passed",
+      "at": "2026.10.12.17.44.19"
+    },
+    {
+      "step": "Expanding Color filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.24"
+    },
+    {
+      "step": "Fetching colour option locator",
+      "status": "passed",
+      "at": "2026.10.12.17.44.24"
+    },
+    {
+      "step": "Fetching colour option locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.24"
+    },
+    {
+      "step": "Selecting colour filter",
+      "status": "passed",
+      "at": "2026.10.12.17.44.24"
+    },
+    {
+      "step": "Selecting colour filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.24"
+    },
+    {
+      "step": "Waiting for results to refresh",
+      "status": "passed",
+      "at": "2026.10.12.17.44.24"
+    },
+    {
+      "step": "Waiting for results to refresh successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.25"
+    },
+    {
+      "step": "Fetching colour checkbox locator",
+      "status": "passed",
+      "at": "2026.10.12.17.44.25"
+    },
+    {
+      "step": "Fetching colour checkbox locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.25"
+    },
+    {
+      "step": "Reading numeric result count",
+      "status": "passed",
+      "at": "2026.10.12.17.44.25"
+    },
+    {
+      "step": "Reading numeric result count successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.25"
+    },
+    {
+      "step": "Fetching first card image locator",
+      "status": "passed",
+      "at": "2026.10.12.17.44.25"
+    },
+    {
+      "step": "Fetching first card image locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.25"
+    },
+    {
+      "step": "screenshot captured: TC_57 Black Applied",
+      "status": "passed",
+      "at": "2026.10.12.17.44.25",
+      "screenshot": "C:\\Users\\10876919\\Downloads\\Hybrid-X-BDD_Local_test-cases\\Hybrid_Local_test-cases\\Local-Test-Cases\\reports\\screenshots\\TC_57 Black Applied-12-10-2026 17-44-25.png"
+    },
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.44.25"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.29"
+    },
+    {
+      "step": "Waiting for product grid",
+      "status": "passed",
+      "at": "2026.10.12.17.44.29"
+    },
+    {
+      "step": "Waiting for product grid successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.29"
+    },
+    {
+      "step": "Reading result count text",
+      "status": "passed",
+      "at": "2026.10.12.17.44.29"
+    },
+    {
+      "step": "Reading result count text successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.29"
+    },
+    {
+      "step": "Expanding Size filter",
+      "status": "passed",
+      "at": "2026.10.12.17.44.29"
+    },
+    {
+      "step": "Expanding Size filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.34"
+    },
+    {
+      "step": "Selecting size filter",
+      "status": "passed",
+      "at": "2026.10.12.17.44.34"
+    },
+    {
+      "step": "Selecting size filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.35"
+    },
+    {
+      "step": "Waiting for results to refresh",
+      "status": "passed",
+      "at": "2026.10.12.17.44.35"
+    },
+    {
+      "step": "Waiting for results to refresh successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.36"
+    },
+    {
+      "step": "Reading result count text",
+      "status": "passed",
+      "at": "2026.10.12.17.44.36"
+    },
+    {
+      "step": "Reading result count text successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.36"
+    },
+    {
+      "step": "Reading numeric result count",
+      "status": "passed",
+      "at": "2026.10.12.17.44.36"
+    },
+    {
+      "step": "Reading numeric result count successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.36"
+    },
+    {
+      "step": "Expanding Color filter",
+      "status": "passed",
+      "at": "2026.10.12.17.44.36"
+    },
+    {
+      "step": "Expanding Color filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.41"
+    },
+    {
+      "step": "Selecting colour filter",
+      "status": "passed",
+      "at": "2026.10.12.17.44.41"
+    },
+    {
+      "step": "Selecting colour filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.41"
+    },
+    {
+      "step": "Waiting for results to refresh",
+      "status": "passed",
+      "at": "2026.10.12.17.44.41"
+    },
+    {
+      "step": "Waiting for results to refresh successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.42"
+    },
+    {
+      "step": "Reading product card title",
+      "status": "passed",
+      "at": "2026.10.12.17.44.42"
+    },
+    {
+      "step": "Reading product card title successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.42"
+    },
+    {
+      "step": "Reading product card price",
+      "status": "passed",
+      "at": "2026.10.12.17.44.42"
+    },
+    {
+      "step": "Reading product card price successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.42"
+    },
+    {
+      "step": "Fetching size checkbox locator",
+      "status": "passed",
+      "at": "2026.10.12.17.44.42"
+    },
+    {
+      "step": "Fetching size checkbox locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.42"
+    },
+    {
+      "step": "Fetching colour checkbox locator",
+      "status": "passed",
+      "at": "2026.10.12.17.44.42"
+    },
+    {
+      "step": "Fetching colour checkbox locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.42"
+    },
+    {
+      "step": "Reading numeric result count",
+      "status": "passed",
+      "at": "2026.10.12.17.44.42"
+    },
+    {
+      "step": "Reading numeric result count successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.42"
+    },
+    {
+      "step": "screenshot captured: TC_58 Size L and Blue Applied",
+      "status": "passed",
+      "at": "2026.10.12.17.44.42",
+      "screenshot": "C:\\Users\\10876919\\Downloads\\Hybrid-X-BDD_Local_test-cases\\Hybrid_Local_test-cases\\Local-Test-Cases\\reports\\screenshots\\TC_58 Size L and Blue Applied-12-10-2026 17-44-42.png"
+    },
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.44.42"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.45"
+    },
+    {
+      "step": "Waiting for product grid",
+      "status": "passed",
+      "at": "2026.10.12.17.44.45"
+    },
+    {
+      "step": "Waiting for product grid successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.45"
+    },
+    {
+      "step": "Reading result count text",
+      "status": "passed",
+      "at": "2026.10.12.17.44.45"
+    },
+    {
+      "step": "Reading result count text successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.45"
+    },
+    {
+      "step": "Expanding Size filter",
+      "status": "passed",
+      "at": "2026.10.12.17.44.45"
+    },
+    {
+      "step": "Expanding Size filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.50"
+    },
+    {
+      "step": "Selecting size filter",
+      "status": "passed",
+      "at": "2026.10.12.17.44.50"
+    },
+    {
+      "step": "Selecting size filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.51"
+    },
+    {
+      "step": "Waiting for results to refresh",
+      "status": "passed",
+      "at": "2026.10.12.17.44.51"
+    },
+    {
+      "step": "Waiting for results to refresh successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.51"
+    },
+    {
+      "step": "Reading result count text",
+      "status": "passed",
+      "at": "2026.10.12.17.44.51"
+    },
+    {
+      "step": "Reading result count text successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.51"
+    },
+    {
+      "step": "Expanding Color filter",
+      "status": "passed",
+      "at": "2026.10.12.17.44.51"
+    },
+    {
+      "step": "Expanding Color filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.56"
+    },
+    {
+      "step": "Selecting colour filter",
+      "status": "passed",
+      "at": "2026.10.12.17.44.56"
+    },
+    {
+      "step": "Selecting colour filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.57"
+    },
+    {
+      "step": "Waiting for results to refresh",
+      "status": "passed",
+      "at": "2026.10.12.17.44.57"
+    },
+    {
+      "step": "Waiting for results to refresh successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.57"
+    },
+    {
+      "step": "Fetching result count locator",
+      "status": "passed",
+      "at": "2026.10.12.17.44.57"
+    },
+    {
+      "step": "Fetching result count locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.57"
+    },
+    {
+      "step": "Reading numeric result count",
+      "status": "passed",
+      "at": "2026.10.12.17.44.57"
+    },
+    {
+      "step": "Reading numeric result count successful",
+      "status": "passed",
+      "at": "2026.10.12.17.44.57"
+    },
+    {
+      "step": "Loading all product cards",
+      "status": "passed",
+      "at": "2026.10.12.17.44.57"
+    },
+    {
+      "step": "Loading all product cards successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.02"
+    },
+    {
+      "step": "screenshot captured: TC_59 Result Count",
+      "status": "passed",
+      "at": "2026.10.12.17.45.02",
+      "screenshot": "C:\\Users\\10876919\\Downloads\\Hybrid-X-BDD_Local_test-cases\\Hybrid_Local_test-cases\\Local-Test-Cases\\reports\\screenshots\\TC_59 Result Count-12-10-2026 17-45-02.png"
+    },
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.45.02"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.06"
+    },
+    {
+      "step": "Waiting for page load",
+      "status": "passed",
+      "at": "2026.10.12.17.45.06"
+    },
+    {
+      "step": "Waiting for page load successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.07"
+    },
+    {
+      "step": "Reading result count text",
+      "status": "passed",
+      "at": "2026.10.12.17.45.07"
+    },
+    {
+      "step": "Reading result count text successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.07"
+    },
+    {
+      "step": "Expanding Size filter",
+      "status": "passed",
+      "at": "2026.10.12.17.45.07"
+    },
+    {
+      "step": "Expanding Size filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.12"
+    },
+    {
+      "step": "Selecting size filter",
+      "status": "passed",
+      "at": "2026.10.12.17.45.12"
+    },
+    {
+      "step": "Selecting size filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.13"
+    },
+    {
+      "step": "Waiting for results to refresh",
+      "status": "passed",
+      "at": "2026.10.12.17.45.13"
+    },
+    {
+      "step": "Waiting for results to refresh successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.13"
+    },
+    {
+      "step": "Expanding Color filter",
+      "status": "passed",
+      "at": "2026.10.12.17.45.13"
+    },
+    {
+      "step": "Expanding Color filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.13"
+    },
+    {
+      "step": "Fetching conflicting colour locator",
+      "status": "passed",
+      "at": "2026.10.12.17.45.13"
+    },
+    {
+      "step": "Fetching conflicting colour locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.13"
+    },
+    {
+      "step": "Applying conflicting filters",
+      "status": "passed",
+      "at": "2026.10.12.17.45.13"
+    },
+    {
+      "step": "Applying conflicting filters successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.14"
+    },
+    {
+      "step": "Waiting for filtered page",
+      "status": "passed",
+      "at": "2026.10.12.17.45.14"
+    },
+    {
+      "step": "Waiting for filtered page successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.14"
+    },
+    {
+      "step": "Fetching product cards locator",
+      "status": "passed",
+      "at": "2026.10.12.17.45.14"
+    },
+    {
+      "step": "Fetching product cards locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.14"
+    },
+    {
+      "step": "Fetching product cards locator",
+      "status": "passed",
+      "at": "2026.10.12.17.45.14"
+    },
+    {
+      "step": "Fetching product cards locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.14"
+    },
+    {
+      "step": "Fetching collections message locator",
+      "status": "passed",
+      "at": "2026.10.12.17.45.14"
+    },
+    {
+      "step": "Fetching collections message locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.14"
+    },
+    {
+      "step": "Fetching collections message locator",
+      "status": "passed",
+      "at": "2026.10.12.17.45.14"
+    },
+    {
+      "step": "Fetching collections message locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.14"
+    },
+    {
+      "step": "screenshot captured: TC_60 No Results",
+      "status": "passed",
+      "at": "2026.10.12.17.45.14",
+      "screenshot": "C:\\Users\\10876919\\Downloads\\Hybrid-X-BDD_Local_test-cases\\Hybrid_Local_test-cases\\Local-Test-Cases\\reports\\screenshots\\TC_60 No Results-12-10-2026 17-45-14.png"
+    },
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.45.15"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.18"
+    },
+    {
+      "step": "Waiting for product grid",
+      "status": "passed",
+      "at": "2026.10.12.17.45.18"
+    },
+    {
+      "step": "Waiting for product grid successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.18"
+    },
+    {
+      "step": "Reading result count text",
+      "status": "passed",
+      "at": "2026.10.12.17.45.18"
+    },
+    {
+      "step": "Reading result count text successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.18"
+    },
+    {
+      "step": "Expanding Size filter",
+      "status": "passed",
+      "at": "2026.10.12.17.45.18"
+    },
+    {
+      "step": "Expanding Size filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.23"
+    },
+    {
+      "step": "Selecting size filter",
+      "status": "passed",
+      "at": "2026.10.12.17.45.23"
+    },
+    {
+      "step": "Selecting size filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.24"
+    },
+    {
+      "step": "Waiting for results to refresh",
+      "status": "passed",
+      "at": "2026.10.12.17.45.24"
+    },
+    {
+      "step": "Waiting for results to refresh successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.24"
+    },
+    {
+      "step": "Reading result count text",
+      "status": "passed",
+      "at": "2026.10.12.17.45.24"
+    },
+    {
+      "step": "Reading result count text successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.24"
+    },
+    {
+      "step": "Expanding Color filter",
+      "status": "passed",
+      "at": "2026.10.12.17.45.24"
+    },
+    {
+      "step": "Expanding Color filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.29"
+    },
+    {
+      "step": "Selecting colour filter",
+      "status": "passed",
+      "at": "2026.10.12.17.45.29"
+    },
+    {
+      "step": "Selecting colour filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.30"
+    },
+    {
+      "step": "Waiting for results to refresh",
+      "status": "passed",
+      "at": "2026.10.12.17.45.30"
+    },
+    {
+      "step": "Waiting for results to refresh successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.30"
+    },
+    {
+      "step": "Reading result count text",
+      "status": "passed",
+      "at": "2026.10.12.17.45.30"
+    },
+    {
+      "step": "Reading result count text successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.30"
+    },
+    {
+      "step": "Reading numeric result count",
+      "status": "passed",
+      "at": "2026.10.12.17.45.30"
+    },
+    {
+      "step": "Reading numeric result count successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.30"
+    },
+    {
+      "step": "Fetching size checkbox locator",
+      "status": "passed",
+      "at": "2026.10.12.17.45.30"
+    },
+    {
+      "step": "Fetching size checkbox locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.30"
+    },
+    {
+      "step": "Deselecting size filter",
+      "status": "passed",
+      "at": "2026.10.12.17.45.30"
+    },
+    {
+      "step": "Deselecting size filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.30"
+    },
+    {
+      "step": "Waiting for results to refresh",
+      "status": "passed",
+      "at": "2026.10.12.17.45.30"
+    },
+    {
+      "step": "Waiting for results to refresh successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.31"
+    },
+    {
+      "step": "Reading numeric result count",
+      "status": "passed",
+      "at": "2026.10.12.17.45.31"
+    },
+    {
+      "step": "Reading numeric result count successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.31"
+    },
+    {
+      "step": "Fetching size checkbox locator",
+      "status": "passed",
+      "at": "2026.10.12.17.45.31"
+    },
+    {
+      "step": "Fetching size checkbox locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.31"
+    },
+    {
+      "step": "Fetching colour checkbox locator",
+      "status": "passed",
+      "at": "2026.10.12.17.45.31"
+    },
+    {
+      "step": "Fetching colour checkbox locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.31"
+    },
+    {
+      "step": "screenshot captured: TC_61 Size Deselected",
+      "status": "passed",
+      "at": "2026.10.12.17.45.31",
+      "screenshot": "C:\\Users\\10876919\\Downloads\\Hybrid-X-BDD_Local_test-cases\\Hybrid_Local_test-cases\\Local-Test-Cases\\reports\\screenshots\\TC_61 Size Deselected-12-10-2026 17-45-31.png"
+    },
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.45.32"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.34"
+    },
+    {
+      "step": "Waiting for product grid",
+      "status": "passed",
+      "at": "2026.10.12.17.45.34"
+    },
+    {
+      "step": "Waiting for product grid successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.34"
+    },
+    {
+      "step": "Reading numeric result count",
+      "status": "passed",
+      "at": "2026.10.12.17.45.34"
+    },
+    {
+      "step": "Reading numeric result count successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.34"
+    },
+    {
+      "step": "Reading result count text",
+      "status": "passed",
+      "at": "2026.10.12.17.45.34"
+    },
+    {
+      "step": "Reading result count text successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.35"
+    },
+    {
+      "step": "Expanding Size filter",
+      "status": "passed",
+      "at": "2026.10.12.17.45.35"
+    },
+    {
+      "step": "Expanding Size filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.40"
+    },
+    {
+      "step": "Selecting size filter",
+      "status": "passed",
+      "at": "2026.10.12.17.45.40"
+    },
+    {
+      "step": "Selecting size filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.40"
+    },
+    {
+      "step": "Waiting for results to refresh",
+      "status": "passed",
+      "at": "2026.10.12.17.45.40"
+    },
+    {
+      "step": "Waiting for results to refresh successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.41"
+    },
+    {
+      "step": "Reading result count text",
+      "status": "passed",
+      "at": "2026.10.12.17.45.41"
+    },
+    {
+      "step": "Reading result count text successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.41"
+    },
+    {
+      "step": "Expanding Color filter",
+      "status": "passed",
+      "at": "2026.10.12.17.45.41"
+    },
+    {
+      "step": "Expanding Color filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.46"
+    },
+    {
+      "step": "Selecting colour filter",
+      "status": "passed",
+      "at": "2026.10.12.17.45.46"
+    },
+    {
+      "step": "Selecting colour filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.46"
+    },
+    {
+      "step": "Waiting for results to refresh",
+      "status": "passed",
+      "at": "2026.10.12.17.45.46"
+    },
+    {
+      "step": "Waiting for results to refresh successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.46"
+    },
+    {
+      "step": "Reading result count text",
+      "status": "passed",
+      "at": "2026.10.12.17.45.46"
+    },
+    {
+      "step": "Reading result count text successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.46"
+    },
+    {
+      "step": "Reading numeric result count",
+      "status": "passed",
+      "at": "2026.10.12.17.45.46"
+    },
+    {
+      "step": "Reading numeric result count successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.46"
+    },
+    {
+      "step": "Scrolling to filter sidebar",
+      "status": "passed",
+      "at": "2026.10.12.17.45.47"
+    },
+    {
+      "step": "Scrolling to filter sidebar successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.47"
+    },
+    {
+      "step": "Fetching Clear All locator",
+      "status": "passed",
+      "at": "2026.10.12.17.45.47"
+    },
+    {
+      "step": "Fetching Clear All locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.47"
+    },
+    {
+      "step": "Clicking Clear All",
+      "status": "passed",
+      "at": "2026.10.12.17.45.47"
+    },
+    {
+      "step": "Clicking Clear All successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.47"
+    },
+    {
+      "step": "Waiting for results to refresh",
+      "status": "passed",
+      "at": "2026.10.12.17.45.47"
+    },
+    {
+      "step": "Waiting for results to refresh successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.47"
+    },
+    {
+      "step": "Fetching checked filters locator",
+      "status": "passed",
+      "at": "2026.10.12.17.45.47"
+    },
+    {
+      "step": "Fetching checked filters locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.47"
+    },
+    {
+      "step": "Reading numeric result count",
+      "status": "passed",
+      "at": "2026.10.12.17.45.47"
+    },
+    {
+      "step": "Reading numeric result count successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.47"
+    },
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.45.48"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.50"
+    },
+    {
+      "step": "Waiting for product grid",
+      "status": "passed",
+      "at": "2026.10.12.17.45.50"
+    },
+    {
+      "step": "Waiting for product grid successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.50"
+    },
+    {
+      "step": "Fetching current URL",
+      "status": "passed",
+      "at": "2026.10.12.17.45.50"
+    },
+    {
+      "step": "Fetching current URL successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.50"
+    },
+    {
+      "step": "Expanding Size filter",
+      "status": "passed",
+      "at": "2026.10.12.17.45.50"
+    },
+    {
+      "step": "Expanding Size filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.56"
+    },
+    {
+      "step": "Selecting size filter",
+      "status": "passed",
+      "at": "2026.10.12.17.45.56"
+    },
+    {
+      "step": "Selecting size filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.56"
+    },
+    {
+      "step": "Waiting for URL change",
+      "status": "passed",
+      "at": "2026.10.12.17.45.56"
+    },
+    {
+      "step": "Waiting for URL change successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.56"
+    },
+    {
+      "step": "Fetching current URL",
+      "status": "passed",
+      "at": "2026.10.12.17.45.56"
+    },
+    {
+      "step": "Fetching current URL successful",
+      "status": "passed",
+      "at": "2026.10.12.17.45.56"
+    },
+    {
+      "step": "Expanding Color filter",
+      "status": "passed",
+      "at": "2026.10.12.17.45.56"
+    },
+    {
+      "step": "Expanding Color filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.01"
+    },
+    {
+      "step": "Selecting colour filter",
+      "status": "passed",
+      "at": "2026.10.12.17.46.01"
+    },
+    {
+      "step": "Selecting colour filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.02"
+    },
+    {
+      "step": "Waiting for URL change",
+      "status": "passed",
+      "at": "2026.10.12.17.46.02"
+    },
+    {
+      "step": "Waiting for URL change successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.02"
+    },
+    {
+      "step": "Fetching current URL",
+      "status": "passed",
+      "at": "2026.10.12.17.46.02"
+    },
+    {
+      "step": "Fetching current URL successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.02"
+    },
+    {
+      "step": "screenshot captured: TC_63 Filter URL",
+      "status": "passed",
+      "at": "2026.10.12.17.46.02",
+      "screenshot": "C:\\Users\\10876919\\Downloads\\Hybrid-X-BDD_Local_test-cases\\Hybrid_Local_test-cases\\Local-Test-Cases\\reports\\screenshots\\TC_63 Filter URL-12-10-2026 17-46-02.png"
+    },
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.46.02"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.05"
+    },
+    {
+      "step": "Waiting for product grid",
+      "status": "passed",
+      "at": "2026.10.12.17.46.05"
+    },
+    {
+      "step": "Waiting for product grid successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.05"
+    },
+    {
+      "step": "Reading result count text",
+      "status": "passed",
+      "at": "2026.10.12.17.46.05"
+    },
+    {
+      "step": "Reading result count text successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.05"
+    },
+    {
+      "step": "Expanding Size filter",
+      "status": "passed",
+      "at": "2026.10.12.17.46.05"
+    },
+    {
+      "step": "Expanding Size filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.11"
+    },
+    {
+      "step": "Selecting size filter",
+      "status": "passed",
+      "at": "2026.10.12.17.46.11"
+    },
+    {
+      "step": "Selecting size filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.11"
+    },
+    {
+      "step": "Waiting for results to refresh",
+      "status": "passed",
+      "at": "2026.10.12.17.46.11"
+    },
+    {
+      "step": "Waiting for results to refresh successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.11"
+    },
+    {
+      "step": "Reading result count text",
+      "status": "passed",
+      "at": "2026.10.12.17.46.11"
+    },
+    {
+      "step": "Reading result count text successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.11"
+    },
+    {
+      "step": "Reloading page",
+      "status": "passed",
+      "at": "2026.10.12.17.46.11"
+    },
+    {
+      "step": "Reloading page successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.12"
+    },
+    {
+      "step": "Waiting for domcontentloaded",
+      "status": "passed",
+      "at": "2026.10.12.17.46.12"
+    },
+    {
+      "step": "Waiting for domcontentloaded successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.12"
+    },
+    {
+      "step": "Waiting for product grid",
+      "status": "passed",
+      "at": "2026.10.12.17.46.12"
+    },
+    {
+      "step": "Waiting for product grid successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.12"
+    },
+    {
+      "step": "Fetching Size filter locator",
+      "status": "passed",
+      "at": "2026.10.12.17.46.12"
+    },
+    {
+      "step": "Fetching Size filter locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.12"
+    },
+    {
+      "step": "Expanding Size filter",
+      "status": "passed",
+      "at": "2026.10.12.17.46.12"
+    },
+    {
+      "step": "Expanding Size filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.17"
+    },
+    {
+      "step": "Fetching size checkbox locator",
+      "status": "passed",
+      "at": "2026.10.12.17.46.17"
+    },
+    {
+      "step": "Fetching size checkbox locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.17"
+    },
+    {
+      "step": "Fetching product cards locator",
+      "status": "passed",
+      "at": "2026.10.12.17.46.17"
+    },
+    {
+      "step": "Fetching product cards locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.17"
+    },
+    {
+      "step": "Fetching result count locator",
+      "status": "passed",
+      "at": "2026.10.12.17.46.17"
+    },
+    {
+      "step": "Fetching result count locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.17"
+    },
+    {
+      "step": "screenshot captured: TC_64 Filter After Reload",
+      "status": "passed",
+      "at": "2026.10.12.17.46.17",
+      "screenshot": "C:\\Users\\10876919\\Downloads\\Hybrid-X-BDD_Local_test-cases\\Hybrid_Local_test-cases\\Local-Test-Cases\\reports\\screenshots\\TC_64 Filter After Reload-12-10-2026 17-46-17.png"
+    },
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.46.18"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.21"
+    },
+    {
+      "step": "Waiting for product grid",
+      "status": "passed",
+      "at": "2026.10.12.17.46.21"
+    },
+    {
+      "step": "Waiting for product grid successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.21"
+    },
+    {
+      "step": "Scrolling to sort dropdown",
+      "status": "passed",
+      "at": "2026.10.12.17.46.21"
+    },
+    {
+      "step": "Scrolling to sort dropdown successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.21"
+    },
+    {
+      "step": "Fetching sort dropdown locator",
+      "status": "passed",
+      "at": "2026.10.12.17.46.21"
+    },
+    {
+      "step": "Fetching sort dropdown locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.21"
+    },
+    {
+      "step": "Reading selected sort option",
+      "status": "passed",
+      "at": "2026.10.12.17.46.21"
+    },
+    {
+      "step": "Reading selected sort option successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.21"
+    },
+    {
+      "step": "screenshot captured: TC_65 Default Sort",
+      "status": "passed",
+      "at": "2026.10.12.17.46.22",
+      "screenshot": "C:\\Users\\10876919\\Downloads\\Hybrid-X-BDD_Local_test-cases\\Hybrid_Local_test-cases\\Local-Test-Cases\\reports\\screenshots\\TC_65 Default Sort-12-10-2026 17-46-21.png"
+    },
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.46.22"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.25"
+    },
+    {
+      "step": "Waiting for page load",
+      "status": "passed",
+      "at": "2026.10.12.17.46.25"
+    },
+    {
+      "step": "Waiting for page load successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.26"
+    },
+    {
+      "step": "Fetching sort dropdown locator",
+      "status": "passed",
+      "at": "2026.10.12.17.46.26"
+    },
+    {
+      "step": "Fetching sort dropdown locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.26"
+    },
+    {
+      "step": "Opening sort dropdown",
+      "status": "passed",
+      "at": "2026.10.12.17.46.26"
+    },
+    {
+      "step": "Opening sort dropdown successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.28"
+    },
+    {
+      "step": "Reading sort options",
+      "status": "passed",
+      "at": "2026.10.12.17.46.28"
+    },
+    {
+      "step": "Reading sort options successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.28"
+    },
+    {
+      "step": "screenshot captured: TC_66 Sort Options",
+      "status": "passed",
+      "at": "2026.10.12.17.46.28",
+      "screenshot": "C:\\Users\\10876919\\Downloads\\Hybrid-X-BDD_Local_test-cases\\Hybrid_Local_test-cases\\Local-Test-Cases\\reports\\screenshots\\TC_66 Sort Options-12-10-2026 17-46-28.png"
+    },
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.46.29"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.32"
+    },
+    {
+      "step": "Waiting for product grid",
+      "status": "passed",
+      "at": "2026.10.12.17.46.32"
+    },
+    {
+      "step": "Waiting for product grid successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.32"
+    },
+    {
+      "step": "Opening sort dropdown",
+      "status": "passed",
+      "at": "2026.10.12.17.46.32"
+    },
+    {
+      "step": "Opening sort dropdown successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.34"
+    },
+    {
+      "step": "Selecting Price: Low to High",
+      "status": "passed",
+      "at": "2026.10.12.17.46.34"
+    },
+    {
+      "step": "Selecting Price: Low to High successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.34"
+    },
+    {
+      "step": "Waiting for sort to apply",
+      "status": "passed",
+      "at": "2026.10.12.17.46.34"
+    },
+    {
+      "step": "Waiting for sort to apply successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.35"
+    },
+    {
+      "step": "Waiting for loader to detach",
+      "status": "passed",
+      "at": "2026.10.12.17.46.35"
+    },
+    {
+      "step": "Waiting for loader to detach successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.35"
+    },
+    {
+      "step": "Fetching product cards locator",
+      "status": "passed",
+      "at": "2026.10.12.17.46.35"
+    },
+    {
+      "step": "Fetching product cards locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.35"
+    },
+    {
+      "step": "Reading selected sort option",
+      "status": "passed",
+      "at": "2026.10.12.17.46.35"
+    },
+    {
+      "step": "Reading selected sort option successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.35"
+    },
+    {
+      "step": "screenshot captured: TC_67 Low to High Applied",
+      "status": "passed",
+      "at": "2026.10.12.17.46.35",
+      "screenshot": "C:\\Users\\10876919\\Downloads\\Hybrid-X-BDD_Local_test-cases\\Hybrid_Local_test-cases\\Local-Test-Cases\\reports\\screenshots\\TC_67 Low to High Applied-12-10-2026 17-46-35.png"
+    },
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.46.35"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.38"
+    },
+    {
+      "step": "Waiting for page load",
+      "status": "passed",
+      "at": "2026.10.12.17.46.38"
+    },
+    {
+      "step": "Waiting for page load successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.38"
+    },
+    {
+      "step": "Opening sort dropdown",
+      "status": "passed",
+      "at": "2026.10.12.17.46.38"
+    },
+    {
+      "step": "Opening sort dropdown successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.41"
+    },
+    {
+      "step": "Selecting Price: Low to High",
+      "status": "passed",
+      "at": "2026.10.12.17.46.41"
+    },
+    {
+      "step": "Selecting Price: Low to High successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.41"
+    },
+    {
+      "step": "Waiting for sort to apply",
+      "status": "passed",
+      "at": "2026.10.12.17.46.41"
+    },
+    {
+      "step": "Waiting for sort to apply successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.42"
+    },
+    {
+      "step": "Fetching product cards locator",
+      "status": "passed",
+      "at": "2026.10.12.17.46.42"
+    },
+    {
+      "step": "Fetching product cards locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.42"
+    },
+    {
+      "step": "Reading product card price",
+      "status": "passed",
+      "at": "2026.10.12.17.46.42"
+    },
+    {
+      "step": "Reading product card price successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.42"
+    },
+    {
+      "step": "Fetching product cards locator",
+      "status": "passed",
+      "at": "2026.10.12.17.46.42"
+    },
+    {
+      "step": "Fetching product cards locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.42"
+    },
+    {
+      "step": "Reading product card price",
+      "status": "passed",
+      "at": "2026.10.12.17.46.42"
+    },
+    {
+      "step": "Reading product card price successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.42"
+    },
+    {
+      "step": "Fetching product cards locator",
+      "status": "passed",
+      "at": "2026.10.12.17.46.42"
+    },
+    {
+      "step": "Fetching product cards locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.42"
+    },
+    {
+      "step": "Reading product card price",
+      "status": "passed",
+      "at": "2026.10.12.17.46.42"
+    },
+    {
+      "step": "Reading product card price successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.42"
+    },
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.46.43"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.46"
+    },
+    {
+      "step": "Waiting for product grid",
+      "status": "passed",
+      "at": "2026.10.12.17.46.46"
+    },
+    {
+      "step": "Waiting for product grid successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.46"
+    },
+    {
+      "step": "Reading result count text",
+      "status": "passed",
+      "at": "2026.10.12.17.46.46"
+    },
+    {
+      "step": "Reading result count text successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.46"
+    },
+    {
+      "step": "Expanding Color filter",
+      "status": "passed",
+      "at": "2026.10.12.17.46.46"
+    },
+    {
+      "step": "Expanding Color filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.51"
+    },
+    {
+      "step": "Selecting colour filter",
+      "status": "passed",
+      "at": "2026.10.12.17.46.51"
+    },
+    {
+      "step": "Selecting colour filter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.52"
+    },
+    {
+      "step": "Waiting for results to refresh",
+      "status": "passed",
+      "at": "2026.10.12.17.46.52"
+    },
+    {
+      "step": "Waiting for results to refresh successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.52"
+    },
+    {
+      "step": "Reading result count text",
+      "status": "passed",
+      "at": "2026.10.12.17.46.52"
+    },
+    {
+      "step": "Reading result count text successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.52"
+    },
+    {
+      "step": "Opening sort dropdown",
+      "status": "passed",
+      "at": "2026.10.12.17.46.52"
+    },
+    {
+      "step": "Opening sort dropdown successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.52"
+    },
+    {
+      "step": "Selecting Price: Low to High",
+      "status": "passed",
+      "at": "2026.10.12.17.46.52"
+    },
+    {
+      "step": "Selecting Price: Low to High successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.52"
+    },
+    {
+      "step": "Waiting for sort to apply",
+      "status": "passed",
+      "at": "2026.10.12.17.46.52"
+    },
+    {
+      "step": "Waiting for sort to apply successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.52"
+    },
+    {
+      "step": "Reading first product prices",
+      "status": "passed",
+      "at": "2026.10.12.17.46.52"
+    },
+    {
+      "step": "Reading first product prices successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.52"
+    },
+    {
+      "step": "Fetching colour checkbox locator",
+      "status": "passed",
+      "at": "2026.10.12.17.46.52"
+    },
+    {
+      "step": "Fetching colour checkbox locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.52"
+    },
+    {
+      "step": "Fetching result count locator",
+      "status": "passed",
+      "at": "2026.10.12.17.46.52"
+    },
+    {
+      "step": "Fetching result count locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.52"
+    },
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.46.53"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.56"
+    },
+    {
+      "step": "Waiting for domcontentloaded",
+      "status": "passed",
+      "at": "2026.10.12.17.46.56"
+    },
+    {
+      "step": "Waiting for domcontentloaded successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.56"
+    },
+    {
+      "step": "Waiting for product grid",
+      "status": "passed",
+      "at": "2026.10.12.17.46.56"
+    },
+    {
+      "step": "Waiting for product grid successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.56"
+    },
+    {
+      "step": "Opening sort dropdown",
+      "status": "passed",
+      "at": "2026.10.12.17.46.56"
+    },
+    {
+      "step": "Opening sort dropdown successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.58"
+    },
+    {
+      "step": "Selecting Price: Low to High",
+      "status": "passed",
+      "at": "2026.10.12.17.46.58"
+    },
+    {
+      "step": "Selecting Price: Low to High successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.58"
+    },
+    {
+      "step": "Waiting for sort to apply",
+      "status": "passed",
+      "at": "2026.10.12.17.46.58"
+    },
+    {
+      "step": "Waiting for sort to apply successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.59"
+    },
+    {
+      "step": "Opening PLP with sort parameter",
+      "status": "passed",
+      "at": "2026.10.12.17.46.59"
+    },
+    {
+      "step": "Opening PLP with sort parameter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.59"
+    },
+    {
+      "step": "Fetching current URL",
+      "status": "passed",
+      "at": "2026.10.12.17.46.59"
+    },
+    {
+      "step": "Fetching current URL successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.59"
+    },
+    {
+      "step": "Fetching sort dropdown locator",
+      "status": "passed",
+      "at": "2026.10.12.17.46.59"
+    },
+    {
+      "step": "Fetching sort dropdown locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.46.59"
+    },
+    {
+      "step": "screenshot captured: TC_70 Sort URL",
+      "status": "passed",
+      "at": "2026.10.12.17.47.00",
+      "screenshot": "C:\\Users\\10876919\\Downloads\\Hybrid-X-BDD_Local_test-cases\\Hybrid_Local_test-cases\\Local-Test-Cases\\reports\\screenshots\\TC_70 Sort URL-12-10-2026 17-46-59.png"
+    },
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.47.00"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.03"
+    },
+    {
+      "step": "Waiting for product grid",
+      "status": "passed",
+      "at": "2026.10.12.17.47.03"
+    },
+    {
+      "step": "Waiting for product grid successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.03"
+    },
+    {
+      "step": "Fetching product cards locator",
+      "status": "passed",
+      "at": "2026.10.12.17.47.03"
+    },
+    {
+      "step": "Fetching product cards locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.03"
+    },
+    {
+      "step": "Scrolling first product card into view",
+      "status": "passed",
+      "at": "2026.10.12.17.47.03"
+    },
+    {
+      "step": "Scrolling first product card into view successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.03"
+    },
+    {
+      "step": "Clicking first product card",
+      "status": "passed",
+      "at": "2026.10.12.17.47.03"
+    },
+    {
+      "step": "Clicking first product card successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.04"
+    },
+    {
+      "step": "Waiting for PDP to load",
+      "status": "passed",
+      "at": "2026.10.12.17.47.04"
+    },
+    {
+      "step": "Waiting for PDP to load successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.04"
+    },
+    {
+      "step": "Fetching current URL",
+      "status": "passed",
+      "at": "2026.10.12.17.47.04"
+    },
+    {
+      "step": "Fetching current URL successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.04"
+    },
+    {
+      "step": "Fetching PDP title locator",
+      "status": "passed",
+      "at": "2026.10.12.17.47.04"
+    },
+    {
+      "step": "Fetching PDP title locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.04"
+    },
+    {
+      "step": "screenshot captured: TC_71 PDP Loaded",
+      "status": "passed",
+      "at": "2026.10.12.17.47.05",
+      "screenshot": "C:\\Users\\10876919\\Downloads\\Hybrid-X-BDD_Local_test-cases\\Hybrid_Local_test-cases\\Local-Test-Cases\\reports\\screenshots\\TC_71 PDP Loaded-12-10-2026 17-47-04.png"
+    },
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.47.05"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.08"
+    },
+    {
+      "step": "Waiting for page load",
+      "status": "passed",
+      "at": "2026.10.12.17.47.08"
+    },
+    {
+      "step": "Waiting for page load successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.09"
+    },
+    {
+      "step": "Fetching product cards locator",
+      "status": "passed",
+      "at": "2026.10.12.17.47.09"
+    },
+    {
+      "step": "Fetching product cards locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.09"
+    },
+    {
+      "step": "Reading product card title",
+      "status": "passed",
+      "at": "2026.10.12.17.47.09"
+    },
+    {
+      "step": "Reading product card title successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.09"
+    },
+    {
+      "step": "Reading product card price",
+      "status": "passed",
+      "at": "2026.10.12.17.47.09"
+    },
+    {
+      "step": "Reading product card price successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.09"
+    },
+    {
+      "step": "Clicking first product card",
+      "status": "passed",
+      "at": "2026.10.12.17.47.09"
+    },
+    {
+      "step": "Clicking first product card successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.09"
+    },
+    {
+      "step": "Waiting for PDP to load",
+      "status": "passed",
+      "at": "2026.10.12.17.47.09"
+    },
+    {
+      "step": "Waiting for PDP to load successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.13"
+    },
+    {
+      "step": "Reading PDP title",
+      "status": "passed",
+      "at": "2026.10.12.17.47.13"
+    },
+    {
+      "step": "Reading PDP title successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.13"
+    },
+    {
+      "step": "Reading PDP price",
+      "status": "passed",
+      "at": "2026.10.12.17.47.13"
+    },
+    {
+      "step": "Reading PDP price successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.13"
+    },
+    {
+      "step": "Opening Decathlon homepage",
+      "status": "passed",
+      "at": "2026.10.12.17.47.13"
+    },
+    {
+      "step": "Opening Decathlon homepage successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.16"
+    },
+    {
+      "step": "Waiting for global header",
+      "status": "passed",
+      "at": "2026.10.12.17.47.16"
+    },
+    {
+      "step": "Waiting for global header successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.16"
+    },
+    {
+      "step": "Fetching search input locator",
+      "status": "passed",
+      "at": "2026.10.12.17.47.16"
+    },
+    {
+      "step": "Fetching search input locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.16"
+    },
+    {
+      "step": "Entering search text",
+      "status": "passed",
+      "at": "2026.10.12.17.47.16"
+    },
+    {
+      "step": "Entering search text successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.18"
+    },
+    {
+      "step": "Fetching search input locator",
+      "status": "passed",
+      "at": "2026.10.12.17.47.18"
+    },
+    {
+      "step": "Fetching search input locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.18"
+    },
+    {
+      "step": "Pressing Enter",
+      "status": "passed",
+      "at": "2026.10.12.17.47.18"
+    },
+    {
+      "step": "Pressing Enter successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.18"
+    },
+    {
+      "step": "Waiting for search result page",
+      "status": "passed",
+      "at": "2026.10.12.17.47.18"
+    },
+    {
+      "step": "Waiting for search result page successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.21"
+    },
+    {
+      "step": "Fetching no results message locator",
+      "status": "passed",
+      "at": "2026.10.12.17.47.21"
+    },
+    {
+      "step": "Fetching no results message locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.21"
+    },
+    {
+      "step": "Fetching search product cards locator",
+      "status": "passed",
+      "at": "2026.10.12.17.47.21"
+    },
+    {
+      "step": "Fetching search product cards locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.21"
+    },
+    {
+      "step": "Fetching no results message locator",
+      "status": "passed",
+      "at": "2026.10.12.17.47.21"
+    },
+    {
+      "step": "Fetching no results message locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.21"
+    },
+    {
+      "step": "Opening Decathlon PLP",
+      "status": "passed",
+      "at": "2026.10.12.17.47.22"
+    },
+    {
+      "step": "Opening Decathlon PLP successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.25"
+    },
+    {
+      "step": "Waiting for product grid",
+      "status": "passed",
+      "at": "2026.10.12.17.47.25"
+    },
+    {
+      "step": "Waiting for product grid successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.25"
+    },
+    {
+      "step": "Opening sort dropdown",
+      "status": "passed",
+      "at": "2026.10.12.17.47.25"
+    },
+    {
+      "step": "Opening sort dropdown successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.28"
+    },
+    {
+      "step": "Selecting Price: Low to High",
+      "status": "passed",
+      "at": "2026.10.12.17.47.28"
+    },
+    {
+      "step": "Selecting Price: Low to High successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.28"
+    },
+    {
+      "step": "Waiting for sort to apply",
+      "status": "passed",
+      "at": "2026.10.12.17.47.28"
+    },
+    {
+      "step": "Waiting for sort to apply successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.28"
+    },
+    {
+      "step": "Clicking first product card",
+      "status": "passed",
+      "at": "2026.10.12.17.47.28"
+    },
+    {
+      "step": "Clicking first product card successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.29"
+    },
+    {
+      "step": "Waiting for PDP to load",
+      "status": "passed",
+      "at": "2026.10.12.17.47.29"
+    },
+    {
+      "step": "Waiting for PDP to load successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.29"
+    },
+    {
+      "step": "Navigating back",
+      "status": "passed",
+      "at": "2026.10.12.17.47.29"
+    },
+    {
+      "step": "Navigating back successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.29"
+    },
+    {
+      "step": "Waiting for product grid",
+      "status": "passed",
+      "at": "2026.10.12.17.47.29"
+    },
+    {
+      "step": "Waiting for product grid successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.30"
+    },
+    {
+      "step": "Fetching sort dropdown locator",
+      "status": "passed",
+      "at": "2026.10.12.17.47.30"
+    },
+    {
+      "step": "Fetching sort dropdown locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.30"
+    },
+    {
+      "step": "Fetching sort dropdown locator",
+      "status": "passed",
+      "at": "2026.10.12.17.47.30"
+    },
+    {
+      "step": "Fetching sort dropdown locator successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.30"
+    },
+    {
+      "step": "Reading first product prices",
+      "status": "passed",
+      "at": "2026.10.12.17.47.30"
+    },
+    {
+      "step": "Reading first product prices successful",
+      "status": "passed",
+      "at": "2026.10.12.17.47.30"
+    }
+  ]
+}

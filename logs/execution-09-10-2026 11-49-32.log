@@ -1,0 +1,79 @@
+[INFO] 2026.10.09.11.49.34 Opening Decathlon PLP
+[INFO] 2026.10.09.11.49.38 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.49.38 Waiting for product grid
+[INFO] 2026.10.09.11.49.38 Waiting for product grid successful
+[INFO] 2026.10.09.11.49.38 Fetching product cards locator
+[INFO] 2026.10.09.11.49.38 Fetching product cards locator successful
+[INFO] 2026.10.09.11.49.38 Scrolling first product card into view
+[INFO] 2026.10.09.11.49.38 Scrolling first product card into view successful
+[INFO] 2026.10.09.11.49.38 Clicking first product card
+[INFO] 2026.10.09.11.49.38 Clicking first product card successful
+[INFO] 2026.10.09.11.49.38 Waiting for PDP to load
+[INFO] 2026.10.09.11.49.39 Waiting for PDP to load successful
+[INFO] 2026.10.09.11.49.39 Fetching current URL
+[INFO] 2026.10.09.11.49.39 Fetching current URL successful
+[INFO] 2026.10.09.11.49.39 Fetching PDP title locator
+[INFO] 2026.10.09.11.49.39 Fetching PDP title locator successful
+[INFO] 2026.10.09.11.49.40 Opening Decathlon PLP
+[INFO] 2026.10.09.11.49.42 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.49.42 Waiting for page load
+[INFO] 2026.10.09.11.49.43 Waiting for page load successful
+[INFO] 2026.10.09.11.49.43 Fetching product cards locator
+[INFO] 2026.10.09.11.49.43 Fetching product cards locator successful
+[INFO] 2026.10.09.11.49.43 Reading product card title
+[INFO] 2026.10.09.11.49.43 Reading product card title successful
+[INFO] 2026.10.09.11.49.43 Reading product card price
+[INFO] 2026.10.09.11.49.43 Reading product card price successful
+[INFO] 2026.10.09.11.49.43 Clicking first product card
+[INFO] 2026.10.09.11.49.44 Clicking first product card successful
+[INFO] 2026.10.09.11.49.44 Waiting for PDP to load
+[INFO] 2026.10.09.11.49.44 Waiting for PDP to load successful
+[INFO] 2026.10.09.11.49.44 Reading PDP title
+[INFO] 2026.10.09.11.49.44 Reading PDP title successful
+[INFO] 2026.10.09.11.49.44 Reading PDP price
+[INFO] 2026.10.09.11.49.44 Reading PDP price successful
+[INFO] 2026.10.09.11.49.44 TC_72 PLP: DOMYOS Men's Short-Sleeved T-Shirt - Black | PDP: Men's Short-Sleeved T-Shirt - Black
+[INFO] 2026.10.09.11.49.44 Opening Decathlon homepage
+[INFO] 2026.10.09.11.49.48 Opening Decathlon homepage successful
+[INFO] 2026.10.09.11.49.48 Waiting for global header
+[INFO] 2026.10.09.11.49.48 Waiting for global header successful
+[INFO] 2026.10.09.11.49.48 Fetching search input locator
+[INFO] 2026.10.09.11.49.48 Fetching search input locator successful
+[INFO] 2026.10.09.11.49.48 Entering search text
+[INFO] 2026.10.09.11.49.49 Entering search text successful
+[INFO] 2026.10.09.11.49.49 Fetching search input locator
+[INFO] 2026.10.09.11.49.49 Fetching search input locator successful
+[INFO] 2026.10.09.11.49.50 Pressing Enter
+[INFO] 2026.10.09.11.49.51 Pressing Enter successful
+[INFO] 2026.10.09.11.49.51 Waiting for search result page
+[INFO] 2026.10.09.11.49.51 Waiting for search result page successful
+[INFO] 2026.10.09.11.49.51 Fetching no results message locator
+[INFO] 2026.10.09.11.49.51 Fetching no results message locator successful
+[INFO] 2026.10.09.11.49.51 Fetching search product cards locator
+[INFO] 2026.10.09.11.49.51 Fetching search product cards locator successful
+[INFO] 2026.10.09.11.49.51 Fetching no results message locator
+[INFO] 2026.10.09.11.49.51 Fetching no results message locator successful
+[INFO] 2026.10.09.11.49.52 Opening Decathlon PLP
+[INFO] 2026.10.09.11.49.55 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.49.55 Waiting for product grid
+[INFO] 2026.10.09.11.49.55 Waiting for product grid successful
+[INFO] 2026.10.09.11.49.55 Opening sort dropdown
+[INFO] 2026.10.09.11.49.57 Opening sort dropdown successful
+[INFO] 2026.10.09.11.49.57 Selecting Price: Low to High
+[INFO] 2026.10.09.11.49.57 Selecting Price: Low to High successful
+[INFO] 2026.10.09.11.49.57 Waiting for sort to apply
+[INFO] 2026.10.09.11.49.58 Waiting for sort to apply successful
+[INFO] 2026.10.09.11.49.58 Clicking first product card
+[INFO] 2026.10.09.11.49.58 Clicking first product card successful
+[INFO] 2026.10.09.11.49.58 Waiting for PDP to load
+[INFO] 2026.10.09.11.49.58 Waiting for PDP to load successful
+[INFO] 2026.10.09.11.49.58 Navigating back
+[INFO] 2026.10.09.11.49.58 Navigating back successful
+[INFO] 2026.10.09.11.49.58 Waiting for product grid
+[INFO] 2026.10.09.11.49.58 Waiting for product grid successful
+[INFO] 2026.10.09.11.49.58 Fetching sort dropdown locator
+[INFO] 2026.10.09.11.49.58 Fetching sort dropdown locator successful
+[INFO] 2026.10.09.11.49.58 Fetching sort dropdown locator
+[INFO] 2026.10.09.11.49.58 Fetching sort dropdown locator successful
+[INFO] 2026.10.09.11.49.58 Reading first product prices
+[INFO] 2026.10.09.11.49.58 Reading first product prices successful

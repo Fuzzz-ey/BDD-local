@@ -1,0 +1,17 @@
+[INFO] 2026.10.12.13.39.03 Opening Decathlon PLP
+[INFO] 2026.10.12.13.39.06 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.39.06 Waiting for product grid
+[INFO] 2026.10.12.13.39.06 Waiting for product grid successful
+[INFO] 2026.10.12.13.39.06 Fetching product cards locator
+[INFO] 2026.10.12.13.39.06 Fetching product cards locator successful
+[INFO] 2026.10.12.13.39.06 Scrolling first product card into view
+[INFO] 2026.10.12.13.39.06 Scrolling first product card into view successful
+[INFO] 2026.10.12.13.39.06 Clicking first product card
+[INFO] 2026.10.12.13.39.07 Clicking first product card successful
+[INFO] 2026.10.12.13.39.07 Waiting for PDP to load
+[INFO] 2026.10.12.13.39.07 Waiting for PDP to load successful
+[INFO] 2026.10.12.13.39.07 Fetching current URL
+[INFO] 2026.10.12.13.39.07 Fetching current URL successful
+[INFO] 2026.10.12.13.39.07 Fetching PDP title locator
+[INFO] 2026.10.12.13.39.07 Fetching PDP title locator successful
+[INFO] 2026.10.12.13.39.07 Screenshot captured: TC_71 PDP Loaded

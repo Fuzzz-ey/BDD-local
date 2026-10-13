@@ -1,0 +1,11 @@
+[INFO] 2026.10.12.13.29.24 Opening Decathlon PLP
+[INFO] 2026.10.12.13.29.27 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.29.27 Waiting for product grid
+[INFO] 2026.10.12.13.29.27 Waiting for product grid successful
+[INFO] 2026.10.12.13.29.27 Scrolling to sort dropdown
+[INFO] 2026.10.12.13.29.28 Scrolling to sort dropdown successful
+[INFO] 2026.10.12.13.29.28 Fetching sort dropdown locator
+[INFO] 2026.10.12.13.29.28 Fetching sort dropdown locator successful
+[INFO] 2026.10.12.13.29.28 Reading selected sort option
+[INFO] 2026.10.12.13.29.28 Reading selected sort option successful
+[INFO] 2026.10.12.13.29.28 Screenshot captured: TC_65 Default Sort

@@ -1,0 +1,20 @@
+[INFO] 2026.10.12.13.42.19 Opening Decathlon homepage
+[INFO] 2026.10.12.13.42.22 Opening Decathlon homepage successful
+[INFO] 2026.10.12.13.42.22 Waiting for global header
+[INFO] 2026.10.12.13.42.23 Waiting for global header successful
+[INFO] 2026.10.12.13.42.23 Fetching search input locator
+[INFO] 2026.10.12.13.42.23 Fetching search input locator successful
+[INFO] 2026.10.12.13.42.23 Entering search text
+[INFO] 2026.10.12.13.42.24 Entering search text successful
+[INFO] 2026.10.12.13.42.24 Fetching search input locator
+[INFO] 2026.10.12.13.42.24 Fetching search input locator successful
+[INFO] 2026.10.12.13.42.24 Pressing Enter
+[INFO] 2026.10.12.13.42.24 Pressing Enter successful
+[INFO] 2026.10.12.13.42.24 Waiting for search result page
+[INFO] 2026.10.12.13.42.24 Waiting for search result page successful
+[INFO] 2026.10.12.13.42.24 Fetching no results message locator
+[INFO] 2026.10.12.13.42.24 Fetching no results message locator successful
+[INFO] 2026.10.12.13.42.24 Fetching search product cards locator
+[INFO] 2026.10.12.13.42.24 Fetching search product cards locator successful
+[INFO] 2026.10.12.13.42.24 Fetching no results message locator
+[INFO] 2026.10.12.13.42.24 Fetching no results message locator successful

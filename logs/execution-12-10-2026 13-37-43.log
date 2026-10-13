@@ -1,0 +1,20 @@
+[INFO] 2026.10.12.13.37.45 Opening Decathlon PLP
+[INFO] 2026.10.12.13.37.48 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.37.48 Waiting for domcontentloaded
+[INFO] 2026.10.12.13.37.48 Waiting for domcontentloaded successful
+[INFO] 2026.10.12.13.37.48 Waiting for product grid
+[INFO] 2026.10.12.13.37.48 Waiting for product grid successful
+[INFO] 2026.10.12.13.37.48 Opening sort dropdown
+[INFO] 2026.10.12.13.37.50 Opening sort dropdown successful
+[INFO] 2026.10.12.13.37.50 Selecting Price: Low to High
+[INFO] 2026.10.12.13.37.50 Selecting Price: Low to High successful
+[INFO] 2026.10.12.13.37.50 Waiting for sort to apply
+[INFO] 2026.10.12.13.37.51 Waiting for sort to apply successful
+[INFO] 2026.10.12.13.37.51 Opening PLP with sort parameter
+[INFO] 2026.10.12.13.37.51 Opening PLP with sort parameter successful
+[INFO] 2026.10.12.13.37.51 Fetching current URL
+[INFO] 2026.10.12.13.37.51 Fetching current URL successful
+[INFO] 2026.10.12.13.37.51 Fetching sort dropdown locator
+[INFO] 2026.10.12.13.37.51 Fetching sort dropdown locator successful
+[INFO] 2026.10.12.13.37.51 TC_70 sorted URL: https://www.decathlon.in/c/tshirts-26201?sort=dsi_pim_migration_category_price_asc
+[INFO] 2026.10.12.13.37.51 Screenshot captured: TC_70 Sort URL

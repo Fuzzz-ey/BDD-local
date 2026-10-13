@@ -1,0 +1,39 @@
+[INFO] 2026.10.12.12.59.29 Opening Decathlon PLP
+[INFO] 2026.10.12.12.59.33 Opening Decathlon PLP successful
+[INFO] 2026.10.12.12.59.33 Waiting for domcontentloaded
+[INFO] 2026.10.12.12.59.33 Waiting for domcontentloaded successful
+[INFO] 2026.10.12.12.59.33 Scrolling to filter sidebar
+[INFO] 2026.10.12.12.59.34 Scrolling to filter sidebar successful
+[INFO] 2026.10.12.12.59.34 Fetching Size filter locator
+[INFO] 2026.10.12.12.59.34 Fetching Size filter locator successful
+[INFO] 2026.10.12.12.59.34 Fetching Size filter locator
+[INFO] 2026.10.12.12.59.34 Fetching Size filter locator successful
+[INFO] 2026.10.12.12.59.34 Fetching Color filter locator
+[INFO] 2026.10.12.12.59.34 Fetching Color filter locator successful
+[INFO] 2026.10.12.12.59.35 Screenshot captured: TC_55 Filter Visibility
+[INFO] 2026.10.12.12.59.35 Opening Decathlon PLP
+[INFO] 2026.10.12.12.59.38 Opening Decathlon PLP successful
+[INFO] 2026.10.12.12.59.38 Waiting for product grid
+[INFO] 2026.10.12.12.59.38 Waiting for product grid successful
+[INFO] 2026.10.12.12.59.38 Reading result count text
+[INFO] 2026.10.12.12.59.38 Reading result count text successful
+[INFO] 2026.10.12.12.59.38 Reading numeric result count
+[INFO] 2026.10.12.12.59.38 Reading numeric result count successful
+[INFO] 2026.10.12.12.59.38 Fetching Size accordion locator
+[INFO] 2026.10.12.12.59.38 Fetching Size accordion locator successful
+[INFO] 2026.10.12.12.59.38 Expanding Size filter
+[INFO] 2026.10.12.12.59.43 Expanding Size filter successful
+[INFO] 2026.10.12.12.59.43 Fetching size option locator
+[INFO] 2026.10.12.12.59.43 Fetching size option locator successful
+[INFO] 2026.10.12.12.59.43 Selecting size filter
+[INFO] 2026.10.12.12.59.44 Selecting size filter successful
+[INFO] 2026.10.12.12.59.44 Waiting for results to refresh
+[INFO] 2026.10.12.12.59.44 Waiting for results to refresh successful
+[INFO] 2026.10.12.12.59.44 Fetching size checkbox locator
+[INFO] 2026.10.12.12.59.44 Fetching size checkbox locator successful
+[INFO] 2026.10.12.12.59.44 Reading numeric result count
+[INFO] 2026.10.12.12.59.44 Reading numeric result count successful
+[INFO] 2026.10.12.12.59.44 Fetching product cards locator
+[INFO] 2026.10.12.12.59.44 Fetching product cards locator successful
+[INFO] 2026.10.12.12.59.44 TC_56 filtered product count for size M: 304
+[INFO] 2026.10.12.12.59.44 Screenshot captured: TC_56 Size M Applied

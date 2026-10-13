@@ -1,0 +1,23 @@
+[INFO] 2026.10.12.13.33.53 Opening Decathlon PLP
+[INFO] 2026.10.12.13.33.57 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.33.57 Waiting for page load
+[INFO] 2026.10.12.13.34.01 Waiting for page load successful
+[INFO] 2026.10.12.13.34.01 Opening sort dropdown
+[INFO] 2026.10.12.13.34.01 Opening sort dropdown successful
+[INFO] 2026.10.12.13.34.01 Selecting Price: Low to High
+[INFO] 2026.10.12.13.34.01 Selecting Price: Low to High successful
+[INFO] 2026.10.12.13.34.01 Waiting for sort to apply
+[INFO] 2026.10.12.13.34.01 Waiting for sort to apply successful
+[INFO] 2026.10.12.13.34.01 Fetching product cards locator
+[INFO] 2026.10.12.13.34.01 Fetching product cards locator successful
+[INFO] 2026.10.12.13.34.01 Reading product card price
+[INFO] 2026.10.12.13.34.01 Reading product card price successful
+[INFO] 2026.10.12.13.34.01 Fetching product cards locator
+[INFO] 2026.10.12.13.34.01 Fetching product cards locator successful
+[INFO] 2026.10.12.13.34.01 Reading product card price
+[INFO] 2026.10.12.13.34.01 Reading product card price successful
+[INFO] 2026.10.12.13.34.01 Fetching product cards locator
+[INFO] 2026.10.12.13.34.01 Fetching product cards locator successful
+[INFO] 2026.10.12.13.34.01 Reading product card price
+[INFO] 2026.10.12.13.34.01 Reading product card price successful
+[INFO] 2026.10.12.13.34.01 TC_68 prices: 99, 99, 99

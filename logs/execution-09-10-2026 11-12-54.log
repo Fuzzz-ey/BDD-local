@@ -1,0 +1,40 @@
+[INFO] 2026.10.09.11.12.55 Opening Decathlon PLP
+[INFO] 2026.10.09.11.12.59 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.12.59 Waiting for product grid
+[INFO] 2026.10.09.11.12.59 Waiting for product grid successful
+[INFO] 2026.10.09.11.12.59 Reading result count text
+[INFO] 2026.10.09.11.12.59 Reading result count text successful
+[INFO] 2026.10.09.11.12.59 Expanding Color filter
+[INFO] 2026.10.09.11.13.04 Expanding Color filter successful
+[INFO] 2026.10.09.11.13.04 Selecting colour filter
+[INFO] 2026.10.09.11.13.04 Selecting colour filter successful
+[INFO] 2026.10.09.11.13.04 Waiting for results to refresh
+[INFO] 2026.10.09.11.13.05 Waiting for results to refresh successful
+[INFO] 2026.10.09.11.13.05 Reading result count text
+[INFO] 2026.10.09.11.13.05 Reading result count text successful
+[INFO] 2026.10.09.11.13.05 Opening sort dropdown
+[INFO] 2026.10.09.11.13.05 Opening sort dropdown successful
+[INFO] 2026.10.09.11.13.05 Selecting Price: Low to High
+[INFO] 2026.10.09.11.13.05 Selecting Price: Low to High successful
+[INFO] 2026.10.09.11.13.05 Waiting for sort to apply
+[INFO] 2026.10.09.11.13.06 Waiting for sort to apply successful
+[INFO] 2026.10.09.11.13.06 Reading first product prices
+[INFO] 2026.10.09.11.13.06 Reading first product prices successful
+[INFO] 2026.10.09.11.13.06 TC_69 prices: 199, 199, 199
+[INFO] 2026.10.09.11.13.06 Fetching colour checkbox locator
+[INFO] 2026.10.09.11.13.06 Fetching colour checkbox locator successful
+[INFO] 2026.10.09.11.13.06 Fetching result count locator
+[INFO] 2026.10.09.11.13.06 Fetching result count locator successful
+[INFO] 2026.10.09.11.13.07 Opening Decathlon PLP
+[INFO] 2026.10.09.11.13.09 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.13.09 Waiting for domcontentloaded
+[INFO] 2026.10.09.11.13.09 Waiting for domcontentloaded successful
+[INFO] 2026.10.09.11.13.09 Waiting for product grid
+[INFO] 2026.10.09.11.13.09 Waiting for product grid successful
+[INFO] 2026.10.09.11.13.09 Fetching current URL
+[INFO] 2026.10.09.11.13.09 Fetching current URL successful
+[INFO] 2026.10.09.11.13.09 Opening sort dropdown
+[ERROR] 2026.10.09.11.13.36 Opening sort dropdown failed: Error: locator.waitFor: Test timeout of 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-test-id="sort-bar-desktop:dropdown-list"]') to be visible[22m
+

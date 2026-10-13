@@ -1,0 +1,21 @@
+[INFO] 2026.10.09.12.12.25 Opening Decathlon PLP
+[INFO] 2026.10.09.12.12.29 Opening Decathlon PLP successful
+[INFO] 2026.10.09.12.12.29 Waiting for domcontentloaded
+[INFO] 2026.10.09.12.12.29 Waiting for domcontentloaded successful
+[INFO] 2026.10.09.12.12.29 Waiting for product grid
+[INFO] 2026.10.09.12.12.29 Waiting for product grid successful
+[INFO] 2026.10.09.12.12.29 Fetching current URL
+[INFO] 2026.10.09.12.12.29 Fetching current URL successful
+[INFO] 2026.10.09.12.12.29 Opening sort dropdown
+[INFO] 2026.10.09.12.12.31 Opening sort dropdown successful
+[INFO] 2026.10.09.12.12.31 Selecting Price: Low to High
+[INFO] 2026.10.09.12.12.32 Selecting Price: Low to High successful
+[INFO] 2026.10.09.12.12.32 Waiting for URL change
+[INFO] 2026.10.09.12.12.32 URL before sort: https://www.decathlon.in/c/tshirts-26201
+[ERROR] 2026.10.09.12.12.46 Waiting for URL change failed: Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoContain[2m([22m[32mexpected[39m[2m) // indexOf[22m
+
+Expected substring: [32m"sort="[39m
+Received string:    [31m"https://www.decathlon.in/c/tshirts-26201"[39m
+
+Call Log:
+- Timeout 15000ms exceeded while waiting on the predicate

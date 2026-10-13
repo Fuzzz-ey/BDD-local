@@ -1,0 +1,26 @@
+[INFO] 2026.10.09.10.20.19 Opening Decathlon PLP
+[INFO] 2026.10.09.10.20.23 Opening Decathlon PLP successful
+[INFO] 2026.10.09.10.20.23 Waiting for domcontentloaded
+[INFO] 2026.10.09.10.20.23 Waiting for domcontentloaded successful
+[INFO] 2026.10.09.10.20.23 Scrolling to filter sidebar
+[INFO] 2026.10.09.10.20.23 Scrolling to filter sidebar successful
+[INFO] 2026.10.09.10.20.23 Fetching Size filter locator
+[INFO] 2026.10.09.10.20.23 Fetching Size filter locator successful
+[INFO] 2026.10.09.10.20.23 Fetching Size filter locator
+[INFO] 2026.10.09.10.20.23 Fetching Size filter locator successful
+[INFO] 2026.10.09.10.20.23 Fetching Color filter locator
+[INFO] 2026.10.09.10.20.23 Fetching Color filter locator successful
+[INFO] 2026.10.09.10.20.24 Opening Decathlon PLP
+[INFO] 2026.10.09.10.20.26 Opening Decathlon PLP successful
+[INFO] 2026.10.09.10.20.26 Waiting for product grid
+[INFO] 2026.10.09.10.20.26 Waiting for product grid successful
+[INFO] 2026.10.09.10.20.26 Reading result count text
+[INFO] 2026.10.09.10.20.26 Reading result count text successful
+[INFO] 2026.10.09.10.20.26 Reading numeric result count
+[INFO] 2026.10.09.10.20.26 Reading numeric result count successful
+[INFO] 2026.10.09.10.20.27 Fetching Size accordion locator
+[INFO] 2026.10.09.10.20.27 Fetching Size accordion locator successful
+[INFO] 2026.10.09.10.20.27 Expanding Size filter
+[INFO] 2026.10.09.10.20.27 Expanding Size filter successful
+[INFO] 2026.10.09.10.20.27 Fetching size option locator
+[INFO] 2026.10.09.10.20.27 Fetching size option locator successful

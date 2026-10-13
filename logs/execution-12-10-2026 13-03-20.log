@@ -1,0 +1,67 @@
+[INFO] 2026.10.12.13.03.21 Opening Decathlon PLP
+[INFO] 2026.10.12.13.03.24 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.03.24 Waiting for domcontentloaded
+[INFO] 2026.10.12.13.03.24 Waiting for domcontentloaded successful
+[INFO] 2026.10.12.13.03.24 Scrolling to filter sidebar
+[INFO] 2026.10.12.13.03.25 Scrolling to filter sidebar successful
+[INFO] 2026.10.12.13.03.25 Fetching Size filter locator
+[INFO] 2026.10.12.13.03.25 Fetching Size filter locator successful
+[INFO] 2026.10.12.13.03.25 Fetching Size filter locator
+[INFO] 2026.10.12.13.03.25 Fetching Size filter locator successful
+[INFO] 2026.10.12.13.03.25 Fetching Color filter locator
+[INFO] 2026.10.12.13.03.25 Fetching Color filter locator successful
+[INFO] 2026.10.12.13.03.25 Screenshot captured: TC_55 Filter Visibility
+[INFO] 2026.10.12.13.03.26 Opening Decathlon PLP
+[INFO] 2026.10.12.13.03.28 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.03.28 Waiting for product grid
+[INFO] 2026.10.12.13.03.28 Waiting for product grid successful
+[INFO] 2026.10.12.13.03.28 Reading result count text
+[INFO] 2026.10.12.13.03.28 Reading result count text successful
+[INFO] 2026.10.12.13.03.28 Reading numeric result count
+[INFO] 2026.10.12.13.03.28 Reading numeric result count successful
+[INFO] 2026.10.12.13.03.28 Fetching Size accordion locator
+[INFO] 2026.10.12.13.03.28 Fetching Size accordion locator successful
+[INFO] 2026.10.12.13.03.28 Expanding Size filter
+[INFO] 2026.10.12.13.03.33 Expanding Size filter successful
+[INFO] 2026.10.12.13.03.33 Fetching size option locator
+[INFO] 2026.10.12.13.03.33 Fetching size option locator successful
+[INFO] 2026.10.12.13.03.33 Selecting size filter
+[INFO] 2026.10.12.13.03.34 Selecting size filter successful
+[INFO] 2026.10.12.13.03.34 Waiting for results to refresh
+[INFO] 2026.10.12.13.03.34 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.03.34 Fetching size checkbox locator
+[INFO] 2026.10.12.13.03.34 Fetching size checkbox locator successful
+[INFO] 2026.10.12.13.03.34 Reading numeric result count
+[INFO] 2026.10.12.13.03.34 Reading numeric result count successful
+[INFO] 2026.10.12.13.03.34 Fetching product cards locator
+[INFO] 2026.10.12.13.03.34 Fetching product cards locator successful
+[INFO] 2026.10.12.13.03.34 TC_56 filtered product count for size M: 304
+[INFO] 2026.10.12.13.03.34 Screenshot captured: TC_56 Size M Applied
+[INFO] 2026.10.12.13.03.35 Opening Decathlon PLP
+[INFO] 2026.10.12.13.03.37 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.03.37 Waiting for page load
+[INFO] 2026.10.12.13.03.38 Waiting for page load successful
+[INFO] 2026.10.12.13.03.38 Reading result count text
+[INFO] 2026.10.12.13.03.38 Reading result count text successful
+[INFO] 2026.10.12.13.03.38 Reading numeric result count
+[INFO] 2026.10.12.13.03.38 Reading numeric result count successful
+[INFO] 2026.10.12.13.03.38 Fetching Color accordion locator
+[INFO] 2026.10.12.13.03.38 Fetching Color accordion locator successful
+[INFO] 2026.10.12.13.03.38 Expanding Color filter
+[INFO] 2026.10.12.13.03.43 Expanding Color filter successful
+[INFO] 2026.10.12.13.03.43 Fetching colour option locator
+[INFO] 2026.10.12.13.03.43 Fetching colour option locator successful
+[INFO] 2026.10.12.13.03.43 Selecting colour filter
+[INFO] 2026.10.12.13.03.43 Selecting colour filter successful
+[INFO] 2026.10.12.13.03.43 Waiting for results to refresh
+[INFO] 2026.10.12.13.03.43 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.03.43 Fetching colour checkbox locator
+[INFO] 2026.10.12.13.03.43 Fetching colour checkbox locator successful
+[INFO] 2026.10.12.13.03.43 Reading numeric result count
+[INFO] 2026.10.12.13.03.43 Reading numeric result count successful
+[INFO] 2026.10.12.13.03.43 Reading numeric result count
+[INFO] 2026.10.12.13.03.43 Reading numeric result count successful
+[INFO] 2026.10.12.13.03.43 Fetching first card image locator
+[INFO] 2026.10.12.13.03.43 Fetching first card image locator successful
+[INFO] 2026.10.12.13.03.44 Screenshot captured: TC_57 Black Applied
+[INFO] 2026.10.12.13.03.44 TC_57 Black colour filter applied successfully

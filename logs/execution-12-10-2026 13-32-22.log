@@ -1,0 +1,17 @@
+[INFO] 2026.10.12.13.32.23 Opening Decathlon PLP
+[INFO] 2026.10.12.13.32.26 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.32.26 Waiting for product grid
+[INFO] 2026.10.12.13.32.26 Waiting for product grid successful
+[INFO] 2026.10.12.13.32.26 Opening sort dropdown
+[INFO] 2026.10.12.13.32.28 Opening sort dropdown successful
+[INFO] 2026.10.12.13.32.28 Selecting Price: Low to High
+[INFO] 2026.10.12.13.32.29 Selecting Price: Low to High successful
+[INFO] 2026.10.12.13.32.29 Waiting for sort to apply
+[INFO] 2026.10.12.13.32.29 Waiting for sort to apply successful
+[INFO] 2026.10.12.13.32.29 Waiting for loader to detach
+[INFO] 2026.10.12.13.32.29 Waiting for loader to detach successful
+[INFO] 2026.10.12.13.32.29 Fetching product cards locator
+[INFO] 2026.10.12.13.32.29 Fetching product cards locator successful
+[INFO] 2026.10.12.13.32.29 Reading selected sort option
+[INFO] 2026.10.12.13.32.29 Reading selected sort option successful
+[INFO] 2026.10.12.13.32.29 Screenshot captured: TC_67 Low to High Applied

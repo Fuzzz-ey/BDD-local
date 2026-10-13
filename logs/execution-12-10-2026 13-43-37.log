@@ -1,0 +1,24 @@
+[INFO] 2026.10.12.13.43.38 Opening Decathlon PLP
+[INFO] 2026.10.12.13.43.42 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.43.42 Waiting for product grid
+[INFO] 2026.10.12.13.43.42 Waiting for product grid successful
+[INFO] 2026.10.12.13.43.42 Opening sort dropdown
+[INFO] 2026.10.12.13.43.45 Opening sort dropdown successful
+[INFO] 2026.10.12.13.43.45 Selecting Price: Low to High
+[INFO] 2026.10.12.13.43.45 Selecting Price: Low to High successful
+[INFO] 2026.10.12.13.43.45 Waiting for sort to apply
+[INFO] 2026.10.12.13.43.45 Waiting for sort to apply successful
+[INFO] 2026.10.12.13.43.45 Clicking first product card
+[INFO] 2026.10.12.13.43.45 Clicking first product card successful
+[INFO] 2026.10.12.13.43.45 Waiting for PDP to load
+[INFO] 2026.10.12.13.43.46 Waiting for PDP to load successful
+[INFO] 2026.10.12.13.43.46 Navigating back
+[INFO] 2026.10.12.13.43.46 Navigating back successful
+[INFO] 2026.10.12.13.43.46 Waiting for product grid
+[INFO] 2026.10.12.13.43.46 Waiting for product grid successful
+[INFO] 2026.10.12.13.43.46 Fetching sort dropdown locator
+[INFO] 2026.10.12.13.43.46 Fetching sort dropdown locator successful
+[INFO] 2026.10.12.13.43.47 Fetching sort dropdown locator
+[INFO] 2026.10.12.13.43.47 Fetching sort dropdown locator successful
+[INFO] 2026.10.12.13.43.47 Reading first product prices
+[INFO] 2026.10.12.13.43.47 Reading first product prices successful

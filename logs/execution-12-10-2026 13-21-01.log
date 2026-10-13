@@ -1,0 +1,39 @@
+[INFO] 2026.10.12.13.21.02 Opening Decathlon PLP
+[INFO] 2026.10.12.13.21.05 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.21.05 Waiting for product grid
+[INFO] 2026.10.12.13.21.05 Waiting for product grid successful
+[INFO] 2026.10.12.13.21.05 Reading result count text
+[INFO] 2026.10.12.13.21.05 Reading result count text successful
+[INFO] 2026.10.12.13.21.05 Expanding Size filter
+[INFO] 2026.10.12.13.21.10 Expanding Size filter successful
+[INFO] 2026.10.12.13.21.10 Selecting size filter
+[INFO] 2026.10.12.13.21.11 Selecting size filter successful
+[INFO] 2026.10.12.13.21.11 Waiting for results to refresh
+[INFO] 2026.10.12.13.21.11 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.21.11 Reading result count text
+[INFO] 2026.10.12.13.21.11 Reading result count text successful
+[INFO] 2026.10.12.13.21.11 Expanding Color filter
+[INFO] 2026.10.12.13.21.16 Expanding Color filter successful
+[INFO] 2026.10.12.13.21.16 Selecting colour filter
+[INFO] 2026.10.12.13.21.17 Selecting colour filter successful
+[INFO] 2026.10.12.13.21.17 Waiting for results to refresh
+[INFO] 2026.10.12.13.21.17 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.21.17 Reading result count text
+[INFO] 2026.10.12.13.21.17 Reading result count text successful
+[INFO] 2026.10.12.13.21.17 Reading numeric result count
+[INFO] 2026.10.12.13.21.17 Reading numeric result count successful
+[INFO] 2026.10.12.13.21.17 Fetching size checkbox locator
+[INFO] 2026.10.12.13.21.17 Fetching size checkbox locator successful
+[INFO] 2026.10.12.13.21.17 Deselecting size filter
+[INFO] 2026.10.12.13.21.17 Deselecting size filter successful
+[INFO] 2026.10.12.13.21.17 Waiting for results to refresh
+[INFO] 2026.10.12.13.21.17 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.21.17 Reading numeric result count
+[INFO] 2026.10.12.13.21.17 Reading numeric result count successful
+[INFO] 2026.10.12.13.21.17 Reading numeric result count
+[INFO] 2026.10.12.13.21.17 Reading numeric result count successful
+[INFO] 2026.10.12.13.21.17 Fetching size checkbox locator
+[INFO] 2026.10.12.13.21.17 Fetching size checkbox locator successful
+[INFO] 2026.10.12.13.21.17 Fetching colour checkbox locator
+[INFO] 2026.10.12.13.21.17 Fetching colour checkbox locator successful
+[INFO] 2026.10.12.13.21.18 Screenshot captured: TC_61 Size Deselected

@@ -1,0 +1,2 @@
+[INFO] 2026.10.12.12.50.27 Opening Decathlon PLP
+[ERROR] 2026.10.12.12.50.27 Opening Decathlon PLP failed: TypeError: Cannot read properties of undefined (reading 'goto')

@@ -1,0 +1,5 @@
+[INFO] 2026.10.12.12.53.17 Opening Decathlon PLP
+[ERROR] 2026.10.12.12.53.17 Opening Decathlon PLP failed: Error: page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to "/c/tshirts-26201", waiting until "domcontentloaded"[22m
+

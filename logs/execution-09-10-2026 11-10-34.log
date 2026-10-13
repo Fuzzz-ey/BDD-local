@@ -1,0 +1,74 @@
+[INFO] 2026.10.09.11.10.36 Opening Decathlon PLP
+[INFO] 2026.10.09.11.10.39 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.10.39 Waiting for product grid
+[INFO] 2026.10.09.11.10.40 Waiting for product grid successful
+[INFO] 2026.10.09.11.10.40 Fetching current URL
+[INFO] 2026.10.09.11.10.40 Fetching current URL successful
+[INFO] 2026.10.09.11.10.40 Expanding Size filter
+[INFO] 2026.10.09.11.10.45 Expanding Size filter successful
+[INFO] 2026.10.09.11.10.45 Selecting size filter
+[INFO] 2026.10.09.11.10.45 Selecting size filter successful
+[INFO] 2026.10.09.11.10.45 Waiting for URL change
+[INFO] 2026.10.09.11.10.45 Waiting for URL change successful
+[INFO] 2026.10.09.11.10.45 Fetching current URL
+[INFO] 2026.10.09.11.10.45 Fetching current URL successful
+[INFO] 2026.10.09.11.10.45 Expanding Color filter
+[INFO] 2026.10.09.11.10.51 Expanding Color filter successful
+[INFO] 2026.10.09.11.10.51 Selecting colour filter
+[INFO] 2026.10.09.11.10.51 Selecting colour filter successful
+[INFO] 2026.10.09.11.10.51 Waiting for URL change
+[INFO] 2026.10.09.11.10.51 Waiting for URL change successful
+[INFO] 2026.10.09.11.10.51 Fetching current URL
+[INFO] 2026.10.09.11.10.51 Fetching current URL successful
+[INFO] 2026.10.09.11.10.51 TC_63 filtered URL: https://www.decathlon.in/c/tshirts-26201?inStock=1&indian_size=XL&business_color_v2=#3D3B3F-Grey
+[INFO] 2026.10.09.11.10.52 Opening Decathlon PLP
+[INFO] 2026.10.09.11.10.55 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.10.55 Waiting for product grid
+[INFO] 2026.10.09.11.10.56 Waiting for product grid successful
+[INFO] 2026.10.09.11.10.56 Reading result count text
+[INFO] 2026.10.09.11.10.56 Reading result count text successful
+[INFO] 2026.10.09.11.10.56 Expanding Size filter
+[INFO] 2026.10.09.11.11.01 Expanding Size filter successful
+[INFO] 2026.10.09.11.11.01 Selecting size filter
+[INFO] 2026.10.09.11.11.02 Selecting size filter successful
+[INFO] 2026.10.09.11.11.02 Waiting for results to refresh
+[INFO] 2026.10.09.11.11.02 Waiting for results to refresh successful
+[INFO] 2026.10.09.11.11.02 Reading result count text
+[INFO] 2026.10.09.11.11.02 Reading result count text successful
+[INFO] 2026.10.09.11.11.02 Reloading page
+[INFO] 2026.10.09.11.11.03 Reloading page successful
+[INFO] 2026.10.09.11.11.03 Waiting for domcontentloaded
+[INFO] 2026.10.09.11.11.03 Waiting for domcontentloaded successful
+[INFO] 2026.10.09.11.11.03 Waiting for product grid
+[INFO] 2026.10.09.11.11.03 Waiting for product grid successful
+[INFO] 2026.10.09.11.11.03 Fetching Size filter locator
+[INFO] 2026.10.09.11.11.03 Fetching Size filter locator successful
+[INFO] 2026.10.09.11.11.03 Expanding Size filter
+[INFO] 2026.10.09.11.11.09 Expanding Size filter successful
+[INFO] 2026.10.09.11.11.09 Fetching size checkbox locator
+[INFO] 2026.10.09.11.11.09 Fetching size checkbox locator successful
+[INFO] 2026.10.09.11.11.09 Fetching product cards locator
+[INFO] 2026.10.09.11.11.09 Fetching product cards locator successful
+[INFO] 2026.10.09.11.11.09 Fetching result count locator
+[INFO] 2026.10.09.11.11.09 Fetching result count locator successful
+[INFO] 2026.10.09.11.11.10 Opening Decathlon PLP
+[INFO] 2026.10.09.11.11.14 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.11.14 Waiting for product grid
+[INFO] 2026.10.09.11.11.14 Waiting for product grid successful
+[INFO] 2026.10.09.11.11.14 Scrolling to sort dropdown
+[INFO] 2026.10.09.11.11.14 Scrolling to sort dropdown successful
+[INFO] 2026.10.09.11.11.14 Fetching sort dropdown locator
+[INFO] 2026.10.09.11.11.14 Fetching sort dropdown locator successful
+[INFO] 2026.10.09.11.11.14 Reading selected sort option
+[INFO] 2026.10.09.11.11.14 Reading selected sort option successful
+[INFO] 2026.10.09.11.11.17 Opening Decathlon PLP
+[INFO] 2026.10.09.11.11.20 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.11.20 Waiting for page load
+[INFO] 2026.10.09.11.11.21 Waiting for page load successful
+[INFO] 2026.10.09.11.11.21 Fetching sort dropdown locator
+[INFO] 2026.10.09.11.11.21 Fetching sort dropdown locator successful
+[INFO] 2026.10.09.11.11.21 Opening sort dropdown
+[ERROR] 2026.10.09.11.11.46 Opening sort dropdown failed: Error: locator.waitFor: Test timeout of 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-test-id="sort-bar-desktop:dropdown-list"]') to be visible[22m
+

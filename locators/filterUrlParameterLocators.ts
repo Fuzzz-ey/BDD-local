@@ -1,0 +1,18 @@
+import { getTestData } from '../utils/testDataReader';
+
+const data = getTestData('TC_63');
+
+export class FilterUrlParameterLocators {
+
+    static readonly PLP_URL = data.plpUrl;
+
+    static readonly PRODUCT_CARDS = '[data-test-id="category-products-grid"] [data-test-id="product-card-link"]';
+
+    static readonly SIZE_ACCORDION = '[data-test-id="filter-sidebar-desktop:container"] button[aria-expanded]:has([data-test-id="title:Size"])';
+
+    static readonly SIZE_OPTION = `[data-test-id="filter-item-indian_size-${data.size}"]`;
+
+    static readonly COLOR_ACCORDION = '[data-test-id="filter-sidebar-desktop:container"] button[aria-expanded]:has([data-test-id="title:Color"])';
+
+    static readonly COLOR_OPTION = `[data-test-id^="filter-item-business_color_v2-"][data-test-id$="-${data.color}"]`;
+}

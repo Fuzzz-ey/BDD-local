@@ -1,0 +1,12 @@
+[INFO] 2026.10.12.13.31.14 Opening Decathlon PLP
+[INFO] 2026.10.12.13.31.17 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.31.17 Waiting for page load
+[INFO] 2026.10.12.13.31.18 Waiting for page load successful
+[INFO] 2026.10.12.13.31.18 Fetching sort dropdown locator
+[INFO] 2026.10.12.13.31.18 Fetching sort dropdown locator successful
+[INFO] 2026.10.12.13.31.18 Opening sort dropdown
+[INFO] 2026.10.12.13.31.20 Opening sort dropdown successful
+[INFO] 2026.10.12.13.31.20 Reading sort options
+[INFO] 2026.10.12.13.31.20 Reading sort options successful
+[INFO] 2026.10.12.13.31.20 Screenshot captured: TC_66 Sort Options
+[INFO] 2026.10.12.13.31.20 TC_66 sort options: Most relevant, Price (low → high), Price (high → low), Rating, Popular, Highest discount

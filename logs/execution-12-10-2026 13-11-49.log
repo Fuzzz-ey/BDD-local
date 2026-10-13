@@ -1,0 +1,26 @@
+[INFO] 2026.10.12.13.11.51 Opening Decathlon PLP
+[INFO] 2026.10.12.13.11.54 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.11.54 Waiting for product grid
+[INFO] 2026.10.12.13.11.54 Waiting for product grid successful
+[INFO] 2026.10.12.13.11.54 Reading result count text
+[INFO] 2026.10.12.13.11.54 Reading result count text successful
+[INFO] 2026.10.12.13.11.54 Expanding Size filter
+[INFO] 2026.10.12.13.11.59 Expanding Size filter successful
+[INFO] 2026.10.12.13.11.59 Selecting size filter
+[INFO] 2026.10.12.13.12.00 Selecting size filter successful
+[INFO] 2026.10.12.13.12.00 Waiting for results to refresh
+[INFO] 2026.10.12.13.12.00 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.12.00 Reading result count text
+[INFO] 2026.10.12.13.12.00 Reading result count text successful
+[INFO] 2026.10.12.13.12.00 Expanding Color filter
+[INFO] 2026.10.12.13.12.05 Expanding Color filter successful
+[INFO] 2026.10.12.13.12.05 Selecting colour filter
+[INFO] 2026.10.12.13.12.05 Selecting colour filter successful
+[INFO] 2026.10.12.13.12.05 Waiting for results to refresh
+[INFO] 2026.10.12.13.12.06 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.12.06 Fetching result count locator
+[INFO] 2026.10.12.13.12.06 Fetching result count locator successful
+[INFO] 2026.10.12.13.12.06 Reading numeric result count
+[INFO] 2026.10.12.13.12.06 Reading numeric result count successful
+[INFO] 2026.10.12.13.12.06 Loading all product cards
+[INFO] 2026.10.12.13.12.09 Loading all product cards successful

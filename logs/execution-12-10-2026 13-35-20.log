@@ -1,0 +1,27 @@
+[INFO] 2026.10.12.13.35.21 Opening Decathlon PLP
+[INFO] 2026.10.12.13.35.25 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.35.25 Waiting for product grid
+[INFO] 2026.10.12.13.35.25 Waiting for product grid successful
+[INFO] 2026.10.12.13.35.25 Reading result count text
+[INFO] 2026.10.12.13.35.25 Reading result count text successful
+[INFO] 2026.10.12.13.35.25 Expanding Color filter
+[INFO] 2026.10.12.13.35.30 Expanding Color filter successful
+[INFO] 2026.10.12.13.35.30 Selecting colour filter
+[INFO] 2026.10.12.13.35.30 Selecting colour filter successful
+[INFO] 2026.10.12.13.35.30 Waiting for results to refresh
+[INFO] 2026.10.12.13.35.30 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.35.30 Reading result count text
+[INFO] 2026.10.12.13.35.30 Reading result count text successful
+[INFO] 2026.10.12.13.35.30 Opening sort dropdown
+[INFO] 2026.10.12.13.35.31 Opening sort dropdown successful
+[INFO] 2026.10.12.13.35.31 Selecting Price: Low to High
+[INFO] 2026.10.12.13.35.31 Selecting Price: Low to High successful
+[INFO] 2026.10.12.13.35.31 Waiting for sort to apply
+[INFO] 2026.10.12.13.35.31 Waiting for sort to apply successful
+[INFO] 2026.10.12.13.35.31 Reading first product prices
+[INFO] 2026.10.12.13.35.31 Reading first product prices successful
+[INFO] 2026.10.12.13.35.31 TC_69 prices: 199, 199, 299
+[INFO] 2026.10.12.13.35.31 Fetching colour checkbox locator
+[INFO] 2026.10.12.13.35.31 Fetching colour checkbox locator successful
+[INFO] 2026.10.12.13.35.31 Fetching result count locator
+[INFO] 2026.10.12.13.35.31 Fetching result count locator successful

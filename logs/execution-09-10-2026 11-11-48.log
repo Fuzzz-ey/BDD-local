@@ -1,0 +1,9 @@
+[INFO] 2026.10.09.11.11.50 Opening Decathlon PLP
+[INFO] 2026.10.09.11.11.53 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.11.53 Waiting for product grid
+[INFO] 2026.10.09.11.11.53 Waiting for product grid successful
+[INFO] 2026.10.09.11.11.53 Opening sort dropdown
+[ERROR] 2026.10.09.11.12.19 Opening sort dropdown failed: Error: locator.waitFor: Test timeout of 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-test-id="sort-bar-desktop:dropdown-list"]') to be visible[22m
+

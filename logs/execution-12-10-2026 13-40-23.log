@@ -1,0 +1,19 @@
+[INFO] 2026.10.12.13.40.24 Opening Decathlon PLP
+[INFO] 2026.10.12.13.40.28 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.40.28 Waiting for page load
+[INFO] 2026.10.12.13.40.31 Waiting for page load successful
+[INFO] 2026.10.12.13.40.31 Fetching product cards locator
+[INFO] 2026.10.12.13.40.31 Fetching product cards locator successful
+[INFO] 2026.10.12.13.40.31 Reading product card title
+[INFO] 2026.10.12.13.40.31 Reading product card title successful
+[INFO] 2026.10.12.13.40.31 Reading product card price
+[INFO] 2026.10.12.13.40.31 Reading product card price successful
+[INFO] 2026.10.12.13.40.31 Clicking first product card
+[INFO] 2026.10.12.13.40.32 Clicking first product card successful
+[INFO] 2026.10.12.13.40.32 Waiting for PDP to load
+[INFO] 2026.10.12.13.40.32 Waiting for PDP to load successful
+[INFO] 2026.10.12.13.40.32 Reading PDP title
+[INFO] 2026.10.12.13.40.32 Reading PDP title successful
+[INFO] 2026.10.12.13.40.32 Reading PDP price
+[INFO] 2026.10.12.13.40.32 Reading PDP price successful
+[INFO] 2026.10.12.13.40.32 TC_72 PLP: NABAIJI Microfibre Towel Basic Small Lightweight & Absorbent | PDP: Microfibre Towel Basic Small Lightweight & Absorbent

@@ -1,0 +1,132 @@
+[INFO] 2026.10.12.13.17.50 Opening Decathlon PLP
+[INFO] 2026.10.12.13.17.54 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.17.54 Waiting for domcontentloaded
+[INFO] 2026.10.12.13.17.54 Waiting for domcontentloaded successful
+[INFO] 2026.10.12.13.17.54 Scrolling to filter sidebar
+[INFO] 2026.10.12.13.17.54 Scrolling to filter sidebar successful
+[INFO] 2026.10.12.13.17.54 Fetching Size filter locator
+[INFO] 2026.10.12.13.17.54 Fetching Size filter locator successful
+[INFO] 2026.10.12.13.17.54 Fetching Size filter locator
+[INFO] 2026.10.12.13.17.54 Fetching Size filter locator successful
+[INFO] 2026.10.12.13.17.54 Fetching Color filter locator
+[INFO] 2026.10.12.13.17.54 Fetching Color filter locator successful
+[INFO] 2026.10.12.13.17.54 Screenshot captured: TC_55 Filter Visibility
+[INFO] 2026.10.12.13.17.55 Opening Decathlon PLP
+[INFO] 2026.10.12.13.17.58 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.17.58 Waiting for product grid
+[INFO] 2026.10.12.13.17.58 Waiting for product grid successful
+[INFO] 2026.10.12.13.17.58 Reading result count text
+[INFO] 2026.10.12.13.17.58 Reading result count text successful
+[INFO] 2026.10.12.13.17.58 Reading numeric result count
+[INFO] 2026.10.12.13.17.58 Reading numeric result count successful
+[INFO] 2026.10.12.13.17.58 Fetching Size accordion locator
+[INFO] 2026.10.12.13.17.58 Fetching Size accordion locator successful
+[INFO] 2026.10.12.13.17.58 Expanding Size filter
+[INFO] 2026.10.12.13.18.03 Expanding Size filter successful
+[INFO] 2026.10.12.13.18.03 Fetching size option locator
+[INFO] 2026.10.12.13.18.03 Fetching size option locator successful
+[INFO] 2026.10.12.13.18.03 Selecting size filter
+[INFO] 2026.10.12.13.18.04 Selecting size filter successful
+[INFO] 2026.10.12.13.18.04 Waiting for results to refresh
+[INFO] 2026.10.12.13.18.04 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.18.04 Fetching size checkbox locator
+[INFO] 2026.10.12.13.18.04 Fetching size checkbox locator successful
+[INFO] 2026.10.12.13.18.04 Reading numeric result count
+[INFO] 2026.10.12.13.18.04 Reading numeric result count successful
+[INFO] 2026.10.12.13.18.04 Fetching product cards locator
+[INFO] 2026.10.12.13.18.04 Fetching product cards locator successful
+[INFO] 2026.10.12.13.18.04 TC_56 filtered product count for size M: 304
+[INFO] 2026.10.12.13.18.04 Screenshot captured: TC_56 Size M Applied
+[INFO] 2026.10.12.13.18.05 Opening Decathlon PLP
+[INFO] 2026.10.12.13.18.09 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.18.09 Waiting for page load
+[INFO] 2026.10.12.13.18.10 Waiting for page load successful
+[INFO] 2026.10.12.13.18.10 Reading result count text
+[INFO] 2026.10.12.13.18.10 Reading result count text successful
+[INFO] 2026.10.12.13.18.10 Reading numeric result count
+[INFO] 2026.10.12.13.18.10 Reading numeric result count successful
+[INFO] 2026.10.12.13.18.10 Fetching Color accordion locator
+[INFO] 2026.10.12.13.18.10 Fetching Color accordion locator successful
+[INFO] 2026.10.12.13.18.10 Expanding Color filter
+[INFO] 2026.10.12.13.18.15 Expanding Color filter successful
+[INFO] 2026.10.12.13.18.15 Fetching colour option locator
+[INFO] 2026.10.12.13.18.15 Fetching colour option locator successful
+[INFO] 2026.10.12.13.18.15 Selecting colour filter
+[INFO] 2026.10.12.13.18.16 Selecting colour filter successful
+[INFO] 2026.10.12.13.18.16 Waiting for results to refresh
+[INFO] 2026.10.12.13.18.16 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.18.16 Fetching colour checkbox locator
+[INFO] 2026.10.12.13.18.16 Fetching colour checkbox locator successful
+[INFO] 2026.10.12.13.18.16 Reading numeric result count
+[INFO] 2026.10.12.13.18.16 Reading numeric result count successful
+[INFO] 2026.10.12.13.18.16 Reading numeric result count
+[INFO] 2026.10.12.13.18.16 Reading numeric result count successful
+[INFO] 2026.10.12.13.18.16 Fetching first card image locator
+[INFO] 2026.10.12.13.18.16 Fetching first card image locator successful
+[INFO] 2026.10.12.13.18.16 Screenshot captured: TC_57 Black Applied
+[INFO] 2026.10.12.13.18.16 TC_57 Black colour filter applied successfully
+[INFO] 2026.10.12.13.18.17 Opening Decathlon PLP
+[INFO] 2026.10.12.13.18.20 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.18.20 Waiting for product grid
+[INFO] 2026.10.12.13.18.20 Waiting for product grid successful
+[INFO] 2026.10.12.13.18.20 Reading result count text
+[INFO] 2026.10.12.13.18.20 Reading result count text successful
+[INFO] 2026.10.12.13.18.20 Expanding Size filter
+[INFO] 2026.10.12.13.18.25 Expanding Size filter successful
+[INFO] 2026.10.12.13.18.25 Selecting size filter
+[INFO] 2026.10.12.13.18.26 Selecting size filter successful
+[INFO] 2026.10.12.13.18.26 Waiting for results to refresh
+[INFO] 2026.10.12.13.18.26 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.18.26 Reading result count text
+[INFO] 2026.10.12.13.18.26 Reading result count text successful
+[INFO] 2026.10.12.13.18.26 Reading numeric result count
+[INFO] 2026.10.12.13.18.26 Reading numeric result count successful
+[INFO] 2026.10.12.13.18.26 Expanding Color filter
+[INFO] 2026.10.12.13.18.31 Expanding Color filter successful
+[INFO] 2026.10.12.13.18.31 Selecting colour filter
+[INFO] 2026.10.12.13.18.32 Selecting colour filter successful
+[INFO] 2026.10.12.13.18.32 Waiting for results to refresh
+[INFO] 2026.10.12.13.18.32 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.18.32 Reading product card title
+[INFO] 2026.10.12.13.18.32 Reading product card title successful
+[INFO] 2026.10.12.13.18.32 Reading product card price
+[INFO] 2026.10.12.13.18.32 Reading product card price successful
+[INFO] 2026.10.12.13.18.32 TC_58 first product: KUIKMA Men Tennis Short Sleeved Polo Shirt Dry 100 Navy Blue | 499
+[INFO] 2026.10.12.13.18.32 Fetching size checkbox locator
+[INFO] 2026.10.12.13.18.32 Fetching size checkbox locator successful
+[INFO] 2026.10.12.13.18.32 Fetching colour checkbox locator
+[INFO] 2026.10.12.13.18.32 Fetching colour checkbox locator successful
+[INFO] 2026.10.12.13.18.32 Reading numeric result count
+[INFO] 2026.10.12.13.18.32 Reading numeric result count successful
+[INFO] 2026.10.12.13.18.32 Reading numeric result count
+[INFO] 2026.10.12.13.18.32 Reading numeric result count successful
+[INFO] 2026.10.12.13.18.32 Screenshot captured: TC_58 Size L and Blue Applied
+[INFO] 2026.10.12.13.18.33 Opening Decathlon PLP
+[INFO] 2026.10.12.13.18.37 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.18.37 Waiting for product grid
+[INFO] 2026.10.12.13.18.37 Waiting for product grid successful
+[INFO] 2026.10.12.13.18.37 Reading result count text
+[INFO] 2026.10.12.13.18.37 Reading result count text successful
+[INFO] 2026.10.12.13.18.37 Expanding Size filter
+[INFO] 2026.10.12.13.18.42 Expanding Size filter successful
+[INFO] 2026.10.12.13.18.42 Selecting size filter
+[INFO] 2026.10.12.13.18.43 Selecting size filter successful
+[INFO] 2026.10.12.13.18.43 Waiting for results to refresh
+[INFO] 2026.10.12.13.18.43 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.18.43 Reading result count text
+[INFO] 2026.10.12.13.18.43 Reading result count text successful
+[INFO] 2026.10.12.13.18.43 Expanding Color filter
+[INFO] 2026.10.12.13.18.48 Expanding Color filter successful
+[INFO] 2026.10.12.13.18.48 Selecting colour filter
+[INFO] 2026.10.12.13.18.49 Selecting colour filter successful
+[INFO] 2026.10.12.13.18.49 Waiting for results to refresh
+[INFO] 2026.10.12.13.18.49 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.18.49 Fetching result count locator
+[INFO] 2026.10.12.13.18.49 Fetching result count locator successful
+[INFO] 2026.10.12.13.18.49 Reading numeric result count
+[INFO] 2026.10.12.13.18.49 Reading numeric result count successful
+[INFO] 2026.10.12.13.18.52 TC_59 DEBUG {"url":"https://www.decathlon.in/c/tshirts-26201?inStock=1&indian_size=S&business_color_v2=%2377252F-Red","viewport":"1280x720","pageHeight":2694,"gridExists":1,"cardsInGrid":1,"cardLinksAnywhere":1,"productHrefs":1,"checkedFilters":2,"header":"1 items"}
+[INFO] 2026.10.12.13.18.52 Loading all product cards
+[INFO] 2026.10.12.13.18.57 Loading all product cards successful
+[INFO] 2026.10.12.13.18.57 TC_59 displayed count 1 matches card count 1
+[INFO] 2026.10.12.13.18.57 Screenshot captured: TC_59 Result Count

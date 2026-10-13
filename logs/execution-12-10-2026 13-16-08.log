@@ -1,0 +1,29 @@
+[INFO] 2026.10.12.13.16.09 Opening Decathlon PLP
+[INFO] 2026.10.12.13.16.13 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.16.13 Waiting for product grid
+[INFO] 2026.10.12.13.16.13 Waiting for product grid successful
+[INFO] 2026.10.12.13.16.13 Reading result count text
+[INFO] 2026.10.12.13.16.13 Reading result count text successful
+[INFO] 2026.10.12.13.16.13 Expanding Size filter
+[INFO] 2026.10.12.13.16.18 Expanding Size filter successful
+[INFO] 2026.10.12.13.16.18 Selecting size filter
+[INFO] 2026.10.12.13.16.18 Selecting size filter successful
+[INFO] 2026.10.12.13.16.18 Waiting for results to refresh
+[INFO] 2026.10.12.13.16.18 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.16.18 Reading result count text
+[INFO] 2026.10.12.13.16.19 Reading result count text successful
+[INFO] 2026.10.12.13.16.19 Expanding Color filter
+[INFO] 2026.10.12.13.16.24 Expanding Color filter successful
+[INFO] 2026.10.12.13.16.24 Selecting colour filter
+[INFO] 2026.10.12.13.16.24 Selecting colour filter successful
+[INFO] 2026.10.12.13.16.24 Waiting for results to refresh
+[INFO] 2026.10.12.13.16.24 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.16.24 Fetching result count locator
+[INFO] 2026.10.12.13.16.24 Fetching result count locator successful
+[INFO] 2026.10.12.13.16.24 Reading numeric result count
+[INFO] 2026.10.12.13.16.24 Reading numeric result count successful
+[INFO] 2026.10.12.13.16.27 TC_59 DEBUG {"url":"https://www.decathlon.in/c/tshirts-26201?inStock=1&indian_size=S&business_color_v2=%2377252F-Red","viewport":"1280x720","pageHeight":2694,"gridExists":1,"cardsInGrid":1,"cardLinksAnywhere":1,"productHrefs":1,"checkedFilters":2,"header":"1 items"}
+[INFO] 2026.10.12.13.16.28 Loading all product cards
+[INFO] 2026.10.12.13.16.32 Loading all product cards successful
+[INFO] 2026.10.12.13.16.32 TC_59 displayed count 1 matches card count 1
+[INFO] 2026.10.12.13.16.32 Screenshot captured: TC_59 Result Count

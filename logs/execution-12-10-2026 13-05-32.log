@@ -1,0 +1,36 @@
+[INFO] 2026.10.12.13.05.34 Opening Decathlon PLP
+[INFO] 2026.10.12.13.05.37 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.05.37 Waiting for product grid
+[INFO] 2026.10.12.13.05.37 Waiting for product grid successful
+[INFO] 2026.10.12.13.05.37 Reading result count text
+[INFO] 2026.10.12.13.05.37 Reading result count text successful
+[INFO] 2026.10.12.13.05.37 Expanding Size filter
+[INFO] 2026.10.12.13.05.42 Expanding Size filter successful
+[INFO] 2026.10.12.13.05.42 Selecting size filter
+[INFO] 2026.10.12.13.05.43 Selecting size filter successful
+[INFO] 2026.10.12.13.05.43 Waiting for results to refresh
+[INFO] 2026.10.12.13.05.43 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.05.43 Reading result count text
+[INFO] 2026.10.12.13.05.43 Reading result count text successful
+[INFO] 2026.10.12.13.05.43 Reading numeric result count
+[INFO] 2026.10.12.13.05.43 Reading numeric result count successful
+[INFO] 2026.10.12.13.05.43 Expanding Color filter
+[INFO] 2026.10.12.13.05.48 Expanding Color filter successful
+[INFO] 2026.10.12.13.05.48 Selecting colour filter
+[INFO] 2026.10.12.13.05.48 Selecting colour filter successful
+[INFO] 2026.10.12.13.05.48 Waiting for results to refresh
+[INFO] 2026.10.12.13.05.48 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.05.48 Reading product card title
+[INFO] 2026.10.12.13.05.48 Reading product card title successful
+[INFO] 2026.10.12.13.05.48 Reading product card price
+[INFO] 2026.10.12.13.05.48 Reading product card price successful
+[INFO] 2026.10.12.13.05.48 TC_58 first product: DOMYOS Men's Short-Sleeved T-Shirt - Black | 199
+[INFO] 2026.10.12.13.05.48 Fetching size checkbox locator
+[INFO] 2026.10.12.13.05.48 Fetching size checkbox locator successful
+[INFO] 2026.10.12.13.05.48 Fetching colour checkbox locator
+[INFO] 2026.10.12.13.05.48 Fetching colour checkbox locator successful
+[INFO] 2026.10.12.13.05.48 Reading numeric result count
+[INFO] 2026.10.12.13.05.48 Reading numeric result count successful
+[INFO] 2026.10.12.13.05.48 Reading numeric result count
+[INFO] 2026.10.12.13.05.48 Reading numeric result count successful
+[INFO] 2026.10.12.13.05.49 Screenshot captured: TC_58 Size L and Blue Applied

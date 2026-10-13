@@ -1,0 +1,42 @@
+[INFO] 2026.10.12.13.22.52 Opening Decathlon PLP
+[INFO] 2026.10.12.13.22.55 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.22.55 Waiting for product grid
+[INFO] 2026.10.12.13.22.55 Waiting for product grid successful
+[INFO] 2026.10.12.13.22.55 Reading numeric result count
+[INFO] 2026.10.12.13.22.55 Reading numeric result count successful
+[INFO] 2026.10.12.13.22.55 Reading result count text
+[INFO] 2026.10.12.13.22.55 Reading result count text successful
+[INFO] 2026.10.12.13.22.55 Expanding Size filter
+[INFO] 2026.10.12.13.23.00 Expanding Size filter successful
+[INFO] 2026.10.12.13.23.01 Selecting size filter
+[INFO] 2026.10.12.13.23.01 Selecting size filter successful
+[INFO] 2026.10.12.13.23.01 Waiting for results to refresh
+[INFO] 2026.10.12.13.23.01 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.23.01 Reading result count text
+[INFO] 2026.10.12.13.23.01 Reading result count text successful
+[INFO] 2026.10.12.13.23.01 Expanding Color filter
+[INFO] 2026.10.12.13.23.06 Expanding Color filter successful
+[INFO] 2026.10.12.13.23.06 Selecting colour filter
+[INFO] 2026.10.12.13.23.07 Selecting colour filter successful
+[INFO] 2026.10.12.13.23.07 Waiting for results to refresh
+[INFO] 2026.10.12.13.23.07 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.23.07 Reading result count text
+[INFO] 2026.10.12.13.23.07 Reading result count text successful
+[INFO] 2026.10.12.13.23.07 Reading numeric result count
+[INFO] 2026.10.12.13.23.07 Reading numeric result count successful
+[INFO] 2026.10.12.13.23.07 Reading numeric result count
+[INFO] 2026.10.12.13.23.07 Reading numeric result count successful
+[INFO] 2026.10.12.13.23.07 Scrolling to filter sidebar
+[INFO] 2026.10.12.13.23.07 Scrolling to filter sidebar successful
+[INFO] 2026.10.12.13.23.07 Fetching Clear All locator
+[INFO] 2026.10.12.13.23.07 Fetching Clear All locator successful
+[INFO] 2026.10.12.13.23.07 Clicking Clear All
+[INFO] 2026.10.12.13.23.07 Clicking Clear All successful
+[INFO] 2026.10.12.13.23.07 Waiting for results to refresh
+[INFO] 2026.10.12.13.23.07 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.23.07 Fetching checked filters locator
+[INFO] 2026.10.12.13.23.07 Fetching checked filters locator successful
+[INFO] 2026.10.12.13.23.07 Reading numeric result count
+[INFO] 2026.10.12.13.23.07 Reading numeric result count successful
+[INFO] 2026.10.12.13.23.07 Reading numeric result count
+[INFO] 2026.10.12.13.23.07 Reading numeric result count successful

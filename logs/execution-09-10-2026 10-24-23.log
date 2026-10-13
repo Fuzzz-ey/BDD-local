@@ -1,0 +1,21 @@
+[INFO] 2026.10.09.10.24.24 Opening Decathlon PLP
+[INFO] 2026.10.09.10.24.27 Opening Decathlon PLP successful
+[INFO] 2026.10.09.10.24.27 Waiting for product grid
+[INFO] 2026.10.09.10.24.27 Waiting for product grid successful
+[INFO] 2026.10.09.10.24.27 Scrolling to sort dropdown
+[INFO] 2026.10.09.10.24.27 Scrolling to sort dropdown successful
+[INFO] 2026.10.09.10.24.27 Fetching sort dropdown locator
+[INFO] 2026.10.09.10.24.27 Fetching sort dropdown locator successful
+[INFO] 2026.10.09.10.24.27 Reading selected sort option
+[INFO] 2026.10.09.10.24.27 Reading selected sort option successful
+[INFO] 2026.10.09.10.24.28 Opening Decathlon PLP
+[INFO] 2026.10.09.10.24.31 Opening Decathlon PLP successful
+[INFO] 2026.10.09.10.24.31 Waiting for page load
+[INFO] 2026.10.09.10.24.32 Waiting for page load successful
+[INFO] 2026.10.09.10.24.32 Fetching sort dropdown locator
+[INFO] 2026.10.09.10.24.32 Fetching sort dropdown locator successful
+[INFO] 2026.10.09.10.24.32 Opening sort dropdown
+[ERROR] 2026.10.09.10.24.58 Opening sort dropdown failed: Error: locator.waitFor: Test timeout of 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-test-id="sort-bar-desktop:dropdown-list"]') to be visible[22m
+

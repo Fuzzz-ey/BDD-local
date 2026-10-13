@@ -1,0 +1,31 @@
+[INFO] 2026.10.12.13.27.27 Opening Decathlon PLP
+[INFO] 2026.10.12.13.27.30 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.27.30 Waiting for product grid
+[INFO] 2026.10.12.13.27.30 Waiting for product grid successful
+[INFO] 2026.10.12.13.27.30 Reading result count text
+[INFO] 2026.10.12.13.27.30 Reading result count text successful
+[INFO] 2026.10.12.13.27.30 Expanding Size filter
+[INFO] 2026.10.12.13.27.35 Expanding Size filter successful
+[INFO] 2026.10.12.13.27.35 Selecting size filter
+[INFO] 2026.10.12.13.27.36 Selecting size filter successful
+[INFO] 2026.10.12.13.27.36 Waiting for results to refresh
+[INFO] 2026.10.12.13.27.36 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.27.36 Reading result count text
+[INFO] 2026.10.12.13.27.36 Reading result count text successful
+[INFO] 2026.10.12.13.27.36 Reloading page
+[INFO] 2026.10.12.13.27.36 Reloading page successful
+[INFO] 2026.10.12.13.27.36 Waiting for domcontentloaded
+[INFO] 2026.10.12.13.27.36 Waiting for domcontentloaded successful
+[INFO] 2026.10.12.13.27.36 Waiting for product grid
+[INFO] 2026.10.12.13.27.36 Waiting for product grid successful
+[INFO] 2026.10.12.13.27.36 Fetching Size filter locator
+[INFO] 2026.10.12.13.27.36 Fetching Size filter locator successful
+[INFO] 2026.10.12.13.27.36 Expanding Size filter
+[INFO] 2026.10.12.13.27.42 Expanding Size filter successful
+[INFO] 2026.10.12.13.27.42 Fetching size checkbox locator
+[INFO] 2026.10.12.13.27.42 Fetching size checkbox locator successful
+[INFO] 2026.10.12.13.27.42 Fetching product cards locator
+[INFO] 2026.10.12.13.27.42 Fetching product cards locator successful
+[INFO] 2026.10.12.13.27.42 Fetching result count locator
+[INFO] 2026.10.12.13.27.42 Fetching result count locator successful
+[INFO] 2026.10.12.13.27.42 Screenshot captured: TC_64 Filter After Reload

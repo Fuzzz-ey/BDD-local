@@ -1,0 +1,74 @@
+[INFO] 2026.10.09.11.09.57 Opening Decathlon PLP
+[INFO] 2026.10.09.11.10.01 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.10.01 Waiting for product grid
+[INFO] 2026.10.09.11.10.01 Waiting for product grid successful
+[INFO] 2026.10.09.11.10.01 Reading result count text
+[INFO] 2026.10.09.11.10.01 Reading result count text successful
+[INFO] 2026.10.09.11.10.01 Expanding Size filter
+[INFO] 2026.10.09.11.10.06 Expanding Size filter successful
+[INFO] 2026.10.09.11.10.06 Selecting size filter
+[INFO] 2026.10.09.11.10.07 Selecting size filter successful
+[INFO] 2026.10.09.11.10.07 Waiting for results to refresh
+[INFO] 2026.10.09.11.10.07 Waiting for results to refresh successful
+[INFO] 2026.10.09.11.10.07 Reading result count text
+[INFO] 2026.10.09.11.10.07 Reading result count text successful
+[INFO] 2026.10.09.11.10.07 Expanding Color filter
+[INFO] 2026.10.09.11.10.12 Expanding Color filter successful
+[INFO] 2026.10.09.11.10.12 Selecting colour filter
+[INFO] 2026.10.09.11.10.13 Selecting colour filter successful
+[INFO] 2026.10.09.11.10.13 Waiting for results to refresh
+[INFO] 2026.10.09.11.10.13 Waiting for results to refresh successful
+[INFO] 2026.10.09.11.10.13 Reading result count text
+[INFO] 2026.10.09.11.10.13 Reading result count text successful
+[INFO] 2026.10.09.11.10.13 Reading numeric result count
+[INFO] 2026.10.09.11.10.13 Reading numeric result count successful
+[INFO] 2026.10.09.11.10.13 Fetching size checkbox locator
+[INFO] 2026.10.09.11.10.13 Fetching size checkbox locator successful
+[INFO] 2026.10.09.11.10.13 Deselecting size filter
+[INFO] 2026.10.09.11.10.13 Deselecting size filter successful
+[INFO] 2026.10.09.11.10.13 Waiting for results to refresh
+[INFO] 2026.10.09.11.10.14 Waiting for results to refresh successful
+[INFO] 2026.10.09.11.10.14 Reading numeric result count
+[INFO] 2026.10.09.11.10.14 Reading numeric result count successful
+[INFO] 2026.10.09.11.10.14 Fetching size checkbox locator
+[INFO] 2026.10.09.11.10.14 Fetching size checkbox locator successful
+[INFO] 2026.10.09.11.10.14 Fetching colour checkbox locator
+[INFO] 2026.10.09.11.10.14 Fetching colour checkbox locator successful
+[INFO] 2026.10.09.11.10.15 Opening Decathlon PLP
+[INFO] 2026.10.09.11.10.18 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.10.18 Waiting for product grid
+[INFO] 2026.10.09.11.10.18 Waiting for product grid successful
+[INFO] 2026.10.09.11.10.18 Reading numeric result count
+[INFO] 2026.10.09.11.10.18 Reading numeric result count successful
+[INFO] 2026.10.09.11.10.18 Reading result count text
+[INFO] 2026.10.09.11.10.18 Reading result count text successful
+[INFO] 2026.10.09.11.10.18 Expanding Size filter
+[INFO] 2026.10.09.11.10.24 Expanding Size filter successful
+[INFO] 2026.10.09.11.10.24 Selecting size filter
+[INFO] 2026.10.09.11.10.24 Selecting size filter successful
+[INFO] 2026.10.09.11.10.24 Waiting for results to refresh
+[INFO] 2026.10.09.11.10.25 Waiting for results to refresh successful
+[INFO] 2026.10.09.11.10.25 Reading result count text
+[INFO] 2026.10.09.11.10.25 Reading result count text successful
+[INFO] 2026.10.09.11.10.25 Expanding Color filter
+[INFO] 2026.10.09.11.10.30 Expanding Color filter successful
+[INFO] 2026.10.09.11.10.30 Selecting colour filter
+[INFO] 2026.10.09.11.10.30 Selecting colour filter successful
+[INFO] 2026.10.09.11.10.30 Waiting for results to refresh
+[INFO] 2026.10.09.11.10.31 Waiting for results to refresh successful
+[INFO] 2026.10.09.11.10.31 Reading result count text
+[INFO] 2026.10.09.11.10.31 Reading result count text successful
+[INFO] 2026.10.09.11.10.31 Reading numeric result count
+[INFO] 2026.10.09.11.10.31 Reading numeric result count successful
+[INFO] 2026.10.09.11.10.31 Scrolling to filter sidebar
+[INFO] 2026.10.09.11.10.31 Scrolling to filter sidebar successful
+[INFO] 2026.10.09.11.10.31 Fetching Clear All locator
+[INFO] 2026.10.09.11.10.31 Fetching Clear All locator successful
+[INFO] 2026.10.09.11.10.31 Clicking Clear All
+[INFO] 2026.10.09.11.10.31 Clicking Clear All successful
+[INFO] 2026.10.09.11.10.31 Waiting for results to refresh
+[INFO] 2026.10.09.11.10.32 Waiting for results to refresh successful
+[INFO] 2026.10.09.11.10.32 Fetching checked filters locator
+[INFO] 2026.10.09.11.10.32 Fetching checked filters locator successful
+[INFO] 2026.10.09.11.10.32 Reading numeric result count
+[INFO] 2026.10.09.11.10.32 Reading numeric result count successful

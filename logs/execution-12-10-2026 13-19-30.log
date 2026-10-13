@@ -1,0 +1,29 @@
+[INFO] 2026.10.12.13.19.31 Opening Decathlon PLP
+[INFO] 2026.10.12.13.19.34 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.19.34 Waiting for page load
+[INFO] 2026.10.12.13.19.35 Waiting for page load successful
+[INFO] 2026.10.12.13.19.35 Reading result count text
+[INFO] 2026.10.12.13.19.35 Reading result count text successful
+[INFO] 2026.10.12.13.19.35 Expanding Size filter
+[INFO] 2026.10.12.13.19.40 Expanding Size filter successful
+[INFO] 2026.10.12.13.19.40 Selecting size filter
+[INFO] 2026.10.12.13.19.41 Selecting size filter successful
+[INFO] 2026.10.12.13.19.41 Waiting for results to refresh
+[INFO] 2026.10.12.13.19.41 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.19.41 Expanding Color filter
+[INFO] 2026.10.12.13.19.41 Expanding Color filter successful
+[INFO] 2026.10.12.13.19.41 Fetching conflicting colour locator
+[INFO] 2026.10.12.13.19.41 Fetching conflicting colour locator successful
+[INFO] 2026.10.12.13.19.41 Applying conflicting filters
+[INFO] 2026.10.12.13.19.41 Applying conflicting filters successful
+[INFO] 2026.10.12.13.19.41 Waiting for filtered page
+[INFO] 2026.10.12.13.19.42 Waiting for filtered page successful
+[INFO] 2026.10.12.13.19.42 Fetching product cards locator
+[INFO] 2026.10.12.13.19.42 Fetching product cards locator successful
+[INFO] 2026.10.12.13.19.42 Fetching product cards locator
+[INFO] 2026.10.12.13.19.42 Fetching product cards locator successful
+[INFO] 2026.10.12.13.19.42 Fetching collections message locator
+[INFO] 2026.10.12.13.19.42 Fetching collections message locator successful
+[INFO] 2026.10.12.13.19.42 Fetching collections message locator
+[INFO] 2026.10.12.13.19.42 Fetching collections message locator successful
+[INFO] 2026.10.12.13.19.42 Screenshot captured: TC_60 No Results

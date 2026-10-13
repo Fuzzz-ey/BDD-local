@@ -1,0 +1,13 @@
+[INFO] 2026.10.12.12.57.48 Opening Decathlon PLP
+[INFO] 2026.10.12.12.57.51 Opening Decathlon PLP successful
+[INFO] 2026.10.12.12.57.51 Waiting for domcontentloaded
+[INFO] 2026.10.12.12.57.51 Waiting for domcontentloaded successful
+[INFO] 2026.10.12.12.57.51 Scrolling to filter sidebar
+[INFO] 2026.10.12.12.57.52 Scrolling to filter sidebar successful
+[INFO] 2026.10.12.12.57.52 Fetching Size filter locator
+[INFO] 2026.10.12.12.57.52 Fetching Size filter locator successful
+[INFO] 2026.10.12.12.57.52 Fetching Size filter locator
+[INFO] 2026.10.12.12.57.52 Fetching Size filter locator successful
+[INFO] 2026.10.12.12.57.52 Fetching Color filter locator
+[INFO] 2026.10.12.12.57.52 Fetching Color filter locator successful
+[INFO] 2026.10.12.12.57.52 Screenshot captured: TC_55 Filter Visibility

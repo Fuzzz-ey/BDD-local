@@ -1,0 +1,29 @@
+[INFO] 2026.10.09.10.57.00 Opening Decathlon homepage
+[INFO] 2026.10.09.10.57.03 Opening Decathlon homepage successful
+[INFO] 2026.10.09.10.57.03 Waiting for global header
+[INFO] 2026.10.09.10.57.03 Waiting for global header successful
+[INFO] 2026.10.09.10.57.03 Fetching search input locator
+[INFO] 2026.10.09.10.57.03 Fetching search input locator successful
+[INFO] 2026.10.09.10.57.03 Entering search text
+[INFO] 2026.10.09.10.57.05 Entering search text successful
+[INFO] 2026.10.09.10.57.05 Fetching search input locator
+[INFO] 2026.10.09.10.57.05 Fetching search input locator successful
+[INFO] 2026.10.09.10.57.05 Pressing Enter
+[INFO] 2026.10.09.10.57.05 Pressing Enter successful
+[INFO] 2026.10.09.10.57.05 Waiting for search result page
+[INFO] 2026.10.09.10.57.06 Waiting for search result page successful
+[INFO] 2026.10.09.10.57.06 Fetching no results message locator
+[INFO] 2026.10.09.10.57.06 Fetching no results message locator successful
+[INFO] 2026.10.09.10.57.06 Fetching search product cards locator
+[INFO] 2026.10.09.10.57.06 Fetching search product cards locator successful
+[INFO] 2026.10.09.10.57.06 Fetching no results message locator
+[INFO] 2026.10.09.10.57.06 Fetching no results message locator successful
+[INFO] 2026.10.09.10.57.06 Opening Decathlon PLP
+[INFO] 2026.10.09.10.57.09 Opening Decathlon PLP successful
+[INFO] 2026.10.09.10.57.09 Waiting for product grid
+[INFO] 2026.10.09.10.57.09 Waiting for product grid successful
+[INFO] 2026.10.09.10.57.09 Opening sort dropdown
+[ERROR] 2026.10.09.10.57.36 Opening sort dropdown failed: Error: locator.waitFor: Test timeout of 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-test-id="sort-bar-desktop:dropdown-list"]') to be visible[22m
+

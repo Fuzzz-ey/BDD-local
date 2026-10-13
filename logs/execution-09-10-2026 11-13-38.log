@@ -1,0 +1,35 @@
+[INFO] 2026.10.09.11.13.39 Opening Decathlon PLP
+[INFO] 2026.10.09.11.13.42 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.13.42 Waiting for product grid
+[INFO] 2026.10.09.11.13.42 Waiting for product grid successful
+[INFO] 2026.10.09.11.13.42 Fetching product cards locator
+[INFO] 2026.10.09.11.13.42 Fetching product cards locator successful
+[INFO] 2026.10.09.11.13.42 Scrolling first product card into view
+[INFO] 2026.10.09.11.13.42 Scrolling first product card into view successful
+[INFO] 2026.10.09.11.13.42 Clicking first product card
+[INFO] 2026.10.09.11.13.43 Clicking first product card successful
+[INFO] 2026.10.09.11.13.43 Waiting for PDP to load
+[INFO] 2026.10.09.11.13.43 Waiting for PDP to load successful
+[INFO] 2026.10.09.11.13.43 Fetching current URL
+[INFO] 2026.10.09.11.13.43 Fetching current URL successful
+[INFO] 2026.10.09.11.13.43 Fetching PDP title locator
+[INFO] 2026.10.09.11.13.43 Fetching PDP title locator successful
+[INFO] 2026.10.09.11.13.45 Opening Decathlon PLP
+[INFO] 2026.10.09.11.13.48 Opening Decathlon PLP successful
+[INFO] 2026.10.09.11.13.48 Waiting for page load
+[INFO] 2026.10.09.11.13.49 Waiting for page load successful
+[INFO] 2026.10.09.11.13.49 Fetching product cards locator
+[INFO] 2026.10.09.11.13.49 Fetching product cards locator successful
+[INFO] 2026.10.09.11.13.49 Reading product card title
+[INFO] 2026.10.09.11.13.49 Reading product card title successful
+[INFO] 2026.10.09.11.13.49 Reading product card price
+[INFO] 2026.10.09.11.13.49 Reading product card price successful
+[INFO] 2026.10.09.11.13.50 Clicking first product card
+[INFO] 2026.10.09.11.13.50 Clicking first product card successful
+[INFO] 2026.10.09.11.13.50 Waiting for PDP to load
+[INFO] 2026.10.09.11.13.51 Waiting for PDP to load successful
+[INFO] 2026.10.09.11.13.51 Reading PDP title
+[INFO] 2026.10.09.11.13.51 Reading PDP title successful
+[INFO] 2026.10.09.11.13.51 Reading PDP price
+[INFO] 2026.10.09.11.13.51 Reading PDP price successful
+[INFO] 2026.10.09.11.13.51 TC_72 PLP: DOMYOS Men's Short-Sleeved T-Shirt - Black | PDP: Men's Short-Sleeved T-Shirt - Black

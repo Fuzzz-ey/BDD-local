@@ -1,0 +1,19 @@
+[INFO] 2026.10.09.12.10.16 Opening Decathlon PLP
+[INFO] 2026.10.09.12.10.19 Opening Decathlon PLP successful
+[INFO] 2026.10.09.12.10.19 Waiting for domcontentloaded
+[INFO] 2026.10.09.12.10.19 Waiting for domcontentloaded successful
+[INFO] 2026.10.09.12.10.19 Waiting for product grid
+[INFO] 2026.10.09.12.10.19 Waiting for product grid successful
+[INFO] 2026.10.09.12.10.19 Fetching current URL
+[INFO] 2026.10.09.12.10.19 Fetching current URL successful
+[INFO] 2026.10.09.12.10.19 Opening sort dropdown
+[INFO] 2026.10.09.12.10.22 Opening sort dropdown successful
+[INFO] 2026.10.09.12.10.22 Selecting Price: Low to High
+[INFO] 2026.10.09.12.10.22 Selecting Price: Low to High successful
+[INFO] 2026.10.09.12.10.22 Waiting for URL change
+[ERROR] 2026.10.09.12.10.36 Waiting for URL change failed: Error: [2mexpect([22m[31mreceived[39m[2m).[22mnot[2m.[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+Expected: not [32m"https://www.decathlon.in/c/tshirts-26201"[39m
+
+Call Log:
+- Timeout 15000ms exceeded while waiting on the predicate

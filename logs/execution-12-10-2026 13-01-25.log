@@ -1,0 +1,61 @@
+[INFO] 2026.10.12.13.01.26 Opening Decathlon PLP
+[INFO] 2026.10.12.13.01.29 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.01.29 Waiting for domcontentloaded
+[INFO] 2026.10.12.13.01.29 Waiting for domcontentloaded successful
+[INFO] 2026.10.12.13.01.29 Scrolling to filter sidebar
+[INFO] 2026.10.12.13.01.30 Scrolling to filter sidebar successful
+[INFO] 2026.10.12.13.01.30 Fetching Size filter locator
+[INFO] 2026.10.12.13.01.30 Fetching Size filter locator successful
+[INFO] 2026.10.12.13.01.30 Fetching Size filter locator
+[INFO] 2026.10.12.13.01.30 Fetching Size filter locator successful
+[INFO] 2026.10.12.13.01.30 Fetching Color filter locator
+[INFO] 2026.10.12.13.01.30 Fetching Color filter locator successful
+[INFO] 2026.10.12.13.01.30 Screenshot captured: TC_55 Filter Visibility
+[INFO] 2026.10.12.13.01.31 Opening Decathlon PLP
+[INFO] 2026.10.12.13.01.33 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.01.33 Waiting for product grid
+[INFO] 2026.10.12.13.01.33 Waiting for product grid successful
+[INFO] 2026.10.12.13.01.33 Reading result count text
+[INFO] 2026.10.12.13.01.33 Reading result count text successful
+[INFO] 2026.10.12.13.01.33 Reading numeric result count
+[INFO] 2026.10.12.13.01.33 Reading numeric result count successful
+[INFO] 2026.10.12.13.01.33 Fetching Size accordion locator
+[INFO] 2026.10.12.13.01.33 Fetching Size accordion locator successful
+[INFO] 2026.10.12.13.01.33 Expanding Size filter
+[INFO] 2026.10.12.13.01.38 Expanding Size filter successful
+[INFO] 2026.10.12.13.01.38 Fetching size option locator
+[INFO] 2026.10.12.13.01.38 Fetching size option locator successful
+[INFO] 2026.10.12.13.01.38 Selecting size filter
+[INFO] 2026.10.12.13.01.39 Selecting size filter successful
+[INFO] 2026.10.12.13.01.39 Waiting for results to refresh
+[INFO] 2026.10.12.13.01.39 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.01.39 Fetching size checkbox locator
+[INFO] 2026.10.12.13.01.39 Fetching size checkbox locator successful
+[INFO] 2026.10.12.13.01.39 Reading numeric result count
+[INFO] 2026.10.12.13.01.39 Reading numeric result count successful
+[INFO] 2026.10.12.13.01.39 Fetching product cards locator
+[INFO] 2026.10.12.13.01.39 Fetching product cards locator successful
+[INFO] 2026.10.12.13.01.39 TC_56 filtered product count for size M: 304
+[INFO] 2026.10.12.13.01.39 Screenshot captured: TC_56 Size M Applied
+[INFO] 2026.10.12.13.01.40 Opening Decathlon PLP
+[INFO] 2026.10.12.13.01.42 Opening Decathlon PLP successful
+[INFO] 2026.10.12.13.01.42 Waiting for page load
+[INFO] 2026.10.12.13.01.42 Waiting for page load successful
+[INFO] 2026.10.12.13.01.42 Reading result count text
+[INFO] 2026.10.12.13.01.42 Reading result count text successful
+[INFO] 2026.10.12.13.01.42 Reading numeric result count
+[INFO] 2026.10.12.13.01.42 Reading numeric result count successful
+[INFO] 2026.10.12.13.01.42 Fetching Color accordion locator
+[INFO] 2026.10.12.13.01.42 Fetching Color accordion locator successful
+[INFO] 2026.10.12.13.01.42 Expanding Color filter
+[INFO] 2026.10.12.13.01.48 Expanding Color filter successful
+[INFO] 2026.10.12.13.01.48 Fetching colour option locator
+[INFO] 2026.10.12.13.01.48 Fetching colour option locator successful
+[INFO] 2026.10.12.13.01.48 Selecting colour filter
+[INFO] 2026.10.12.13.01.48 Selecting colour filter successful
+[INFO] 2026.10.12.13.01.48 Waiting for results to refresh
+[INFO] 2026.10.12.13.01.48 Waiting for results to refresh successful
+[INFO] 2026.10.12.13.01.48 Fetching colour checkbox locator
+[INFO] 2026.10.12.13.01.48 Fetching colour checkbox locator successful
+[INFO] 2026.10.12.13.01.48 Reading numeric result count
+[INFO] 2026.10.12.13.01.48 Reading numeric result count successful

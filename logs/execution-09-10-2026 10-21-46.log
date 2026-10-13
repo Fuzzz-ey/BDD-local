@@ -1,0 +1,13 @@
+[INFO] 2026.10.09.10.21.47 Opening Decathlon PLP
+[INFO] 2026.10.09.10.21.49 Opening Decathlon PLP successful
+[INFO] 2026.10.09.10.21.49 Waiting for page load
+[INFO] 2026.10.09.10.21.50 Waiting for page load successful
+[INFO] 2026.10.09.10.21.50 Reading result count text
+[INFO] 2026.10.09.10.21.50 Reading result count text successful
+[INFO] 2026.10.09.10.21.50 Expanding Size filter
+[INFO] 2026.10.09.10.21.50 Expanding Size filter successful
+[INFO] 2026.10.09.10.21.50 Selecting size filter
+[ERROR] 2026.10.09.10.22.16 Selecting size filter failed: Error: locator.click: Test timeout of 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-test-id="filter-item-indian_size-XS"]')[22m
+

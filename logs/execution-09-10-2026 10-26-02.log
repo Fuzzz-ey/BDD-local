@@ -1,0 +1,13 @@
+[INFO] 2026.10.09.10.26.03 Opening Decathlon PLP
+[INFO] 2026.10.09.10.26.06 Opening Decathlon PLP successful
+[INFO] 2026.10.09.10.26.06 Waiting for product grid
+[INFO] 2026.10.09.10.26.06 Waiting for product grid successful
+[INFO] 2026.10.09.10.26.06 Reading result count text
+[INFO] 2026.10.09.10.26.06 Reading result count text successful
+[INFO] 2026.10.09.10.26.06 Expanding Color filter
+[INFO] 2026.10.09.10.26.06 Expanding Color filter successful
+[INFO] 2026.10.09.10.26.06 Selecting colour filter
+[ERROR] 2026.10.09.10.26.33 Selecting colour filter failed: Error: locator.click: Test timeout of 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('[data-test-id^="filter-item-business_color_v2-"][data-test-id$="-White"]')[22m
+

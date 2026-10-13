@@ -1,0 +1,125 @@
+[INFO] 2026.10.12.09.47.36 Opening Decathlon PLP
+[INFO] 2026.10.12.09.47.39 Opening Decathlon PLP successful
+[INFO] 2026.10.12.09.47.39 Waiting for domcontentloaded
+[INFO] 2026.10.12.09.47.39 Waiting for domcontentloaded successful
+[INFO] 2026.10.12.09.47.39 Scrolling to filter sidebar
+[INFO] 2026.10.12.09.47.39 Scrolling to filter sidebar successful
+[INFO] 2026.10.12.09.47.39 Fetching Size filter locator
+[INFO] 2026.10.12.09.47.39 Fetching Size filter locator successful
+[INFO] 2026.10.12.09.47.39 Fetching Size filter locator
+[INFO] 2026.10.12.09.47.39 Fetching Size filter locator successful
+[INFO] 2026.10.12.09.47.39 Fetching Color filter locator
+[INFO] 2026.10.12.09.47.39 Fetching Color filter locator successful
+[INFO] 2026.10.12.09.47.40 Screenshot captured: TC_55 Filter Visibility
+[INFO] 2026.10.12.09.47.41 Opening Decathlon PLP
+[INFO] 2026.10.12.09.47.43 Opening Decathlon PLP successful
+[INFO] 2026.10.12.09.47.43 Waiting for product grid
+[INFO] 2026.10.12.09.47.43 Waiting for product grid successful
+[INFO] 2026.10.12.09.47.43 Reading result count text
+[INFO] 2026.10.12.09.47.43 Reading result count text successful
+[INFO] 2026.10.12.09.47.43 Reading numeric result count
+[INFO] 2026.10.12.09.47.43 Reading numeric result count successful
+[INFO] 2026.10.12.09.47.43 Fetching Size accordion locator
+[INFO] 2026.10.12.09.47.43 Fetching Size accordion locator successful
+[INFO] 2026.10.12.09.47.43 Expanding Size filter
+[INFO] 2026.10.12.09.47.48 Expanding Size filter successful
+[INFO] 2026.10.12.09.47.48 Fetching size option locator
+[INFO] 2026.10.12.09.47.48 Fetching size option locator successful
+[INFO] 2026.10.12.09.47.49 Selecting size filter
+[INFO] 2026.10.12.09.47.49 Selecting size filter successful
+[INFO] 2026.10.12.09.47.49 Waiting for results to refresh
+[INFO] 2026.10.12.09.47.49 Waiting for results to refresh successful
+[INFO] 2026.10.12.09.47.49 Fetching size checkbox locator
+[INFO] 2026.10.12.09.47.49 Fetching size checkbox locator successful
+[INFO] 2026.10.12.09.47.49 Reading numeric result count
+[INFO] 2026.10.12.09.47.49 Reading numeric result count successful
+[INFO] 2026.10.12.09.47.49 Fetching product cards locator
+[INFO] 2026.10.12.09.47.49 Fetching product cards locator successful
+[INFO] 2026.10.12.09.47.49 TC_56 filtered product count for size M: 795
+[INFO] 2026.10.12.09.47.49 Screenshot captured: TC_56 Size M Applied
+[INFO] 2026.10.12.09.47.50 Opening Decathlon PLP
+[INFO] 2026.10.12.09.47.52 Opening Decathlon PLP successful
+[INFO] 2026.10.12.09.47.52 Waiting for page load
+[INFO] 2026.10.12.09.47.53 Waiting for page load successful
+[INFO] 2026.10.12.09.47.53 Reading result count text
+[INFO] 2026.10.12.09.47.53 Reading result count text successful
+[INFO] 2026.10.12.09.47.53 Reading numeric result count
+[INFO] 2026.10.12.09.47.53 Reading numeric result count successful
+[INFO] 2026.10.12.09.47.53 Fetching Color accordion locator
+[INFO] 2026.10.12.09.47.53 Fetching Color accordion locator successful
+[INFO] 2026.10.12.09.47.53 Expanding Color filter
+[INFO] 2026.10.12.09.47.58 Expanding Color filter successful
+[INFO] 2026.10.12.09.47.58 Fetching colour option locator
+[INFO] 2026.10.12.09.47.58 Fetching colour option locator successful
+[INFO] 2026.10.12.09.47.58 Selecting colour filter
+[INFO] 2026.10.12.09.47.59 Selecting colour filter successful
+[INFO] 2026.10.12.09.47.59 Waiting for results to refresh
+[INFO] 2026.10.12.09.47.59 Waiting for results to refresh successful
+[INFO] 2026.10.12.09.47.59 Fetching colour checkbox locator
+[INFO] 2026.10.12.09.47.59 Fetching colour checkbox locator successful
+[INFO] 2026.10.12.09.47.59 Reading numeric result count
+[INFO] 2026.10.12.09.47.59 Reading numeric result count successful
+[INFO] 2026.10.12.09.47.59 Fetching first card image locator
+[INFO] 2026.10.12.09.47.59 Fetching first card image locator successful
+[INFO] 2026.10.12.09.47.59 Screenshot captured: TC_57 Black Applied
+[INFO] 2026.10.12.09.47.59 TC_57 Black colour filter applied successfully
+[INFO] 2026.10.12.09.48.00 Opening Decathlon PLP
+[INFO] 2026.10.12.09.48.02 Opening Decathlon PLP successful
+[INFO] 2026.10.12.09.48.02 Waiting for product grid
+[INFO] 2026.10.12.09.48.02 Waiting for product grid successful
+[INFO] 2026.10.12.09.48.02 Reading result count text
+[INFO] 2026.10.12.09.48.02 Reading result count text successful
+[INFO] 2026.10.12.09.48.02 Expanding Size filter
+[INFO] 2026.10.12.09.48.07 Expanding Size filter successful
+[INFO] 2026.10.12.09.48.07 Selecting size filter
+[INFO] 2026.10.12.09.48.08 Selecting size filter successful
+[INFO] 2026.10.12.09.48.08 Waiting for results to refresh
+[INFO] 2026.10.12.09.48.08 Waiting for results to refresh successful
+[INFO] 2026.10.12.09.48.08 Reading result count text
+[INFO] 2026.10.12.09.48.08 Reading result count text successful
+[INFO] 2026.10.12.09.48.08 Reading numeric result count
+[INFO] 2026.10.12.09.48.08 Reading numeric result count successful
+[INFO] 2026.10.12.09.48.08 Expanding Color filter
+[INFO] 2026.10.12.09.48.13 Expanding Color filter successful
+[INFO] 2026.10.12.09.48.13 Selecting colour filter
+[INFO] 2026.10.12.09.48.14 Selecting colour filter successful
+[INFO] 2026.10.12.09.48.14 Waiting for results to refresh
+[INFO] 2026.10.12.09.48.14 Waiting for results to refresh successful
+[INFO] 2026.10.12.09.48.14 Reading product card title
+[INFO] 2026.10.12.09.48.14 Reading product card title successful
+[INFO] 2026.10.12.09.48.14 Reading product card price
+[INFO] 2026.10.12.09.48.14 Reading product card price successful
+[INFO] 2026.10.12.09.48.14 TC_58 first product: DOMYOS Men's Short-Sleeved T-Shirt - Black | 199
+[INFO] 2026.10.12.09.48.14 Fetching size checkbox locator
+[INFO] 2026.10.12.09.48.14 Fetching size checkbox locator successful
+[INFO] 2026.10.12.09.48.14 Fetching colour checkbox locator
+[INFO] 2026.10.12.09.48.14 Fetching colour checkbox locator successful
+[INFO] 2026.10.12.09.48.14 Reading numeric result count
+[INFO] 2026.10.12.09.48.14 Reading numeric result count successful
+[INFO] 2026.10.12.09.48.14 Screenshot captured: TC_58 Size L and Blue Applied
+[INFO] 2026.10.12.09.48.15 Opening Decathlon PLP
+[INFO] 2026.10.12.09.48.18 Opening Decathlon PLP successful
+[INFO] 2026.10.12.09.48.18 Waiting for product grid
+[INFO] 2026.10.12.09.48.18 Waiting for product grid successful
+[INFO] 2026.10.12.09.48.18 Reading result count text
+[INFO] 2026.10.12.09.48.18 Reading result count text successful
+[INFO] 2026.10.12.09.48.18 Expanding Size filter
+[INFO] 2026.10.12.09.48.23 Expanding Size filter successful
+[INFO] 2026.10.12.09.48.23 Selecting size filter
+[INFO] 2026.10.12.09.48.23 Selecting size filter successful
+[INFO] 2026.10.12.09.48.23 Waiting for results to refresh
+[INFO] 2026.10.12.09.48.23 Waiting for results to refresh successful
+[INFO] 2026.10.12.09.48.23 Reading result count text
+[INFO] 2026.10.12.09.48.23 Reading result count text successful
+[INFO] 2026.10.12.09.48.23 Expanding Color filter
+[INFO] 2026.10.12.09.48.28 Expanding Color filter successful
+[INFO] 2026.10.12.09.48.28 Selecting colour filter
+[INFO] 2026.10.12.09.48.29 Selecting colour filter successful
+[INFO] 2026.10.12.09.48.29 Waiting for results to refresh
+[INFO] 2026.10.12.09.48.29 Waiting for results to refresh successful
+[INFO] 2026.10.12.09.48.29 Fetching result count locator
+[INFO] 2026.10.12.09.48.29 Fetching result count locator successful
+[INFO] 2026.10.12.09.48.29 Reading numeric result count
+[INFO] 2026.10.12.09.48.29 Reading numeric result count successful
+[INFO] 2026.10.12.09.48.29 Loading all product cards
+[INFO] 2026.10.12.09.48.33 Loading all product cards successful
