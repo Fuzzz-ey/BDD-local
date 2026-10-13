@@ -1,0 +1,224 @@
+﻿S.No,Test Case Id,Test Case Name,Description,Precondition,Test Step,Test Data,Priority,Test Case Complexity (Positive/Negative),Expected Result,Actual Result,Status,Team Member
+1,TC_55,Filter Visibility,Verify Size and Color filter categories are visible,User is on PLP,"
+1. Navigate to Decathlon PLP URL.
+2. Wait for 'domcontentloaded' network state.
+3. Scroll down to the left-side filter sidebar.
+4. Locate the 'Size' filter container.
+5. Assert that the 'Size' filter is visible.
+6. Assert that the 'Color' filter is visible.
+7. Capture screenshot.",,Medium,Positive,Size and Color filter sections should be explicitly visible in the DOM.,,,Shashi
+2,TC_56,Apply Single Size Filter,Verify applying a single Size filter updates results,User is on PLP,"
+1. Navigate to a valid Decathlon PLP.
+2. Wait for initial page elements to stabilize.
+3. Locate the 'Size' filter accordion in the DOM.
+4. Click to expand the 'Size' section if collapsed.
+5. Locate the checkbox for size 'M'.
+6. Click the 'M' size checkbox.
+7. Wait for the loading spinner to appear and detach.
+8. Assert product grid updates to show 'M' items.
+9. Log the total count of filtered products.
+10. Capture screenshot.",Size: 'M',High,Positive,Product list dynamically updates to display only 'M' size products.,,,Shashi
+3,TC_57,Apply Single Color Filter,Verify applying a single Color filter updates results,User is on PLP,"
+1. Navigate to the Decathlon PLP.
+2. Wait for all network requests to hit idle state.
+3. Locate the 'Color' filter accordion on the UI.
+4. Click to expand the 'Color' section.
+5. Identify the 'Black' color swatch element.
+6. Click the 'Black' color swatch.
+7. Wait for the asynchronous product grid refresh.
+8. Assert that loaded product images correspond to black.
+9. Capture success screenshot for custom logger.
+",Color: 'Black',High,Positive,Product list updates to display only 'Black' products.,,,Shashi
+4,TC_58,Apply Multiple Filters,Verify applying Size and Color filters simultaneously,User is on PLP,"
+1. Navigate to the targeted PLP.
+2. Expand 'Size' section and check 'L'.
+3. Wait for the initial DOM refresh cycle.
+4. Expand 'Color' section and select 'Blue'.
+5. Wait for the secondary DOM refresh cycle.
+6. Extract attributes from the first loaded product.
+7. Assert the product matches 'L' and 'Blue' criteria.
+8. Capture final state screenshot.
+","
+Size: 'L', Color: 'Blue'",High,Positive,Product list strictly displays products matching both 'L' AND 'Blue'.,,,Shashi
+5,TC_59,Result Count Accuracy,Verify total result count matches displayed product cards,User is on PLP,"
+1. Navigate to the Decathlon PLP.
+2. Apply a 'Size' filter constraint.
+3. Apply a 'Color' filter constraint.
+4. Locate the result count text element at page top.
+5. Extract the numeric value from the text string.
+6. Count the locator elements for product cards.
+7. Assert extracted number equals the locator count.
+8. Log assertion result and screenshot.
+","Size: 'S', Color: 'Red'",High,Positive,Textual count strictly matches the actual number of loaded product cards.,,,Shashi
+6,TC_60,No Results Filter UI,Verify behavior when restrictive filters yield zero items,User is on PLP,"
+1. Navigate to Decathlon PLP.
+2. Wait for the network idle state.
+3. Expand 'Size' filter and select a restrictive size.
+4. Expand 'Color' filter and select a conflicting color.
+5. Wait for the backend API response to resolve.
+6. Verify the product grid container is empty.
+7. Assert that 0 product cards exist in the DOM.
+8. Locate the fallback text alert element on the page.
+9. Assert the alert text exactly matches ""Explore all our collections"".
+10. Capture evidence screenshot.
+",Conflicting Size/Color,Medium,Negative,"The exact message ""Explore all our collections"" is displayed, and the DOM contains 0 product cards.",,,Shashi
+7,TC_61,Deselect Single Filter,Verify deselecting a filter restores previous product list,Filters 'Size' and 'Color' applied,"
+1. Navigate to PLP and wait for load.
+2. Select a 'Size' filter and wait for UI update.
+3. Select a 'Color' filter and wait for UI update.
+4. Record the current product result count.
+5. Locate the applied 'Size' filter checkbox.
+6. Click the checkbox again to deselect it.
+7. Wait for the loading spinner to resolve.
+8. Extract the new product result count.
+9. Assert the new count is greater than the recorded count.
+10. Capture screenshot of updated state.
+",,Medium,Positive,Product list expands to remove the size constraint while retaining color constraint.,,,Shashi
+8,TC_62,Clear All Filters,Verify 'Clear All' button resets the PLP,Filters applied,"
+1. Navigate to the Decathlon PLP.
+2. Apply multiple filter constraints (Size, Color).
+3. Wait for the product list to filter completely.
+4. Record the filtered total product count.
+5. Scroll to the top of the filter sidebar.
+6. Locate the 'Clear All' UI button.
+7. Click the 'Clear All' button.
+8. Wait for the default product grid to reload.
+9. Assert all checkboxes are in unchecked state.
+10. Assert total count reverts to the baseline maximum.",,High,Positive,"All filters are wiped, and the baseline product list is fully restored.",,,Shashi
+9,TC_63,Filter URL Parameter,Verify URL updates with query parameters for selected filters,User is on PLP,"
+1. Navigate to the base Decathlon PLP URL.
+2. Record the initial base URL string.
+3. Locate and click an 'XL' Size filter.
+4. Wait for the page routing event to fire.
+5. Locate and click a 'Grey' Color filter.
+6. Wait for the secondary page routing event.
+7. Fetch the current active URL using Playwright page.url().
+8. Assert the URL contains size query parameters.
+9. Assert the URL contains color query parameters.
+10. Log URL state and capture screenshot.","Size: 'XL', Color: 'Grey'",Medium,Positive,Browser URL actively appends query parameters mapping to selected filters.,,,Shashi
+10,TC_64,Filter Persistence,Verify filters persist upon page refresh,Filters applied,"
+1. Navigate to the target PLP.
+2. Apply a 'Size' filter constraint ('M').
+3. Wait for the product list to update.
+4. Trigger a full page reload using page.reload().
+5. Wait for the 'domcontentloaded' event again.
+6. Locate the 'Size' filter in the sidebar.
+7. Assert the 'M' checkbox retains the checked attribute.
+8. Count the product cards in the DOM.
+9. Assert the product count reflects the filtered state.
+10. Capture UI screenshot.",Size: 'M',Low,Positive,"Selected filters remain checked, and the product list stays filtered post-refresh.",,,Shashi
+11,TC_65,Default Sort UI,Verify default sorting state is displayed,User is on PLP,"
+1. Navigate to the Decathlon PLP.
+2. Wait for the primary product grid to load.
+3. Scroll the sorting dropdown into the viewport.
+4. Locate the dropdown select element.
+5. Extract the inner text of the currently selected option.
+6. Assert the text matches the expected default (e.g., 'Relevance').
+7. Capture screenshot of the dropdown.",,Low,Positive,The sorting dropdown clearly displays the platform's default sorting logic.,,,Shashi
+12,TC_66,"Sort Options Visibility	",Verify all sorting options are available in dropdown,User is on PLP,"
+1. Navigate to the targeted Decathlon PLP.
+2. Wait for network connections to idle.
+3. Locate the sorting dropdown container.
+4. Click the dropdown to expand all options.
+5. Fetch all option locators within the select element.
+6. Assert 'Price: Low to High' exists in the list.
+7. Assert 'Price: High to Low' exists in the list.
+8. Assert 'Newest' exists in the list.
+9. Capture screenshot of expanded dropdown.
+10. Log the full list of extracted options.
+",,Medium,Positive,Dropdown accurately displays all expected functional sorting parameters.,,,Shashi
+13,TC_67,Apply Low to High Sort,Verify selecting 'Price: Low to High' updates list,User is on PLP,"
+1. Navigate to the Decathlon PLP URL.
+2. Wait for the initial product load.
+3. Locate and click the sorting dropdown.
+4. Select the 'Price: Low to High' option.
+5. Wait for the sorting API request to trigger.
+6. Wait for the UI loading spinner to detach.
+7. Verify the product cards have re-rendered.
+8. Extract the dropdown's selected value.
+9. Assert the selected value is now 'Price: Low to High'.
+10. Capture confirmation screenshot.
+",Sort: 'Low to High',High,Positive,The UI refreshes and the dropdown displays the new active sort constraint.,,,Shashi
+14,TC_68,Sort Order Accuracy,Validate product prices are strictly in ascending order,Low to High' applied,"
+1. Navigate to PLP and wait for page load.
+2. Apply the 'Price: Low to High' sort parameter.
+3. Wait for the product grid to fully update.
+4. Locate the price element of the 1st product card.
+5. Extract and parse the numeric price of the 1st product.
+6. Locate the price element of the 2nd product card.
+7. Extract and parse the numeric price of the 2nd product.
+8. Locate the price element of the 3rd product card.
+9. Extract and parse the numeric price of the 3rd product.
+10. Assert that Price 1 <= Price 2 <= Price 3.
+",,High,Positive,Displayed product prices strictly adhere to an ascending mathematical order.,,,Shashi
+15,TC_69,Sort with Active Filter,Verify sorting works correctly on a filtered product list,Filter applied,"
+1. Navigate to the Decathlon PLP.
+2. Apply a 'Color' filter (e.g., 'White').
+3. Wait for the filtering loader to complete.
+4. Open the sorting dropdown menu.
+5. Select 'Price: Low to High'.
+6. Wait for the sorting loader to complete.
+7. Extract prices of the first three loaded products.
+8. Assert the three prices are in ascending order.
+9. Assert all three products adhere to the 'White' filter.
+",Color: 'White',High,Positive,Filtered products respect the color constraint while organizing by ascending price.,,,Shashi
+16,TC_70,Sort URL Parameter,Verify URL updates with sort query parameters,User is on PLP,"
+1. Navigate to the PLP URL.
+2. Wait for 'domcontentloaded'.
+3. Open the sorting dropdown element.
+4. Click to select a specific sort option.
+5. Wait for the page routing to capture the new state.
+6. Invoke page.url() to fetch the updated URL string.
+7. Parse the URL string for query parameters.
+8. Assert the URL string contains the expected sort key.
+9. Log the final URL for debugging.
+10. Capture screenshot of the sorted UI.
+",Sort: 'Low to High',Medium,Positive,The browser URL correctly appends the sorting parameter for direct navigation.,,,Shashi
+17,TC_71,Navigate to PDP,Verify clicking a product card opens the Product Detail Page,User is on PLP,"
+1. Navigate to the Decathlon PLP.
+2. Wait for the product cards to render in the DOM.
+3. Locate the first available product card wrapper.
+4. Scroll the product card into the browser viewport.
+5. Click on the product card's primary image or title.
+6. Wait for the new document to load completely.
+7. Fetch the current URL string.
+8. Assert the URL matches a valid PDP structure/regex.
+9. Capture screenshot of the loaded PDP.
+",,High,Positive,Clicking a card seamlessly transitions the user to the specific Product Detail Page.,,,Shashi
+18,TC_72,Product Data Match,Verify product title and price on PLP match the loaded PDP,User is on PLP,"
+1. Navigate to the PLP and wait for idle state.
+2. Locate the first product card.
+3. Extract the exact product title string from the PLP card.
+4. Extract the exact product price string from the PLP card.
+5. Click the product card to navigate to the PDP.
+6. Wait for the PDP to fully render.
+7. Extract the main product header string on the PDP.
+8. Extract the main price string on the PDP.
+9. Assert the PLP title matches the PDP title.
+10. Assert the PLP price matches the PDP price.
+
+",,High,Positive,The title and price data remain strictly consistent across the PLP and PDP.,,,Shashi
+19,TC_73,Invalid Search Query Results,Verify the PLP handles a completely invalid search term without breaking,User is on the homepage,"
+1. Navigate to the Decathlon India homepage.
+2. Wait for the global header to load.
+3. Locate the main search bar input field.
+4. Enter the test string: XYZ999INVALID!.
+5. Press the 'Enter' key to trigger the search query.
+6. Wait for the resulting PLP to fully render.
+7. Query the DOM for product card locators.
+8. Assert that exactly 0 product card locators exist.
+9. Assert the exact text ""Sorry, No Results Found...!"" is visible on the screen.
+
+",Search string: XYZ999INVALID!,Medium,Negative,"The exact message ""Sorry, No Results Found...!"" is displayed, and the DOM contains 0 product cards.",,,Shashi
+20,TC_74,Back Navigation State,Verify PLP retains sort state when navigating back from PDP,"Sort applied, on PDP","
+1. Navigate to PLP.
+2. Apply the 'Price: Low to High' sort parameter.
+3. Wait for the product list to process the sort.
+4. Click a product card to transition to the PDP.
+5. Wait for the PDP to load entirely.
+6. Trigger page.goBack() to simulate browser back action.
+7. Wait for the PLP to re-render from cache or network.
+8. Locate the sorting dropdown element.
+9. Assert the dropdown still displays 'Price: Low to High'.
+10. Assert the product order remains correctly sorted.
+",,Medium,Positive,Returning to the PLP successfully restores the previously active sorting state.,,,Shashi

@@ -1,0 +1,13 @@
+﻿EPIC,User Story Id,User Stories,Scenario ID,Scenario,Team Member
+Product List Page,US_08,"As a user, I want to browse products, apply filters, and sort the results on the Product List Page so that I can easily find and select items to view in detail.",US_08 TS_01,"Scenario: Verify dynamic updates upon applying multiple filters
+Given the user is on the Product List Page
+When the user selects a specific ""Size"" filter
+And the user selects a specific ""Color"" filter
+Then the product list should dynamically update to display only products matching both selected filters
+And the total result count should accurately reflect the number of filtered products",Shashi
+Product List Page,US_08,"As a user, I want to browse products, apply filters, and sort the results on the Product List Page so that I can easily find and select items to view in detail.",US_08 TS_02,"Scenario: Verify sorting accuracy and navigation to Product Detail Page
+Given the user is on the Product List Page with multiple products displayed
+When the user selects ""Price: Low to High"" from the sorting dropdown
+Then the displayed product cards should be ordered from the lowest price to the highest price
+When the user clicks on the first product card in the sorted list
+Then the user should be navigated to the corresponding Product Detail Page of the selected product",Shashi
